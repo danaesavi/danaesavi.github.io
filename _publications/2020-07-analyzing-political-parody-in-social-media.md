@@ -19,5 +19,5 @@ Parody is a figurative device used to imitate an entity for comedic or critical 
 
 **Blog Post** [Why Analyzing Political Parody in Social Media is Important](https://medium.com/@danaesavi/why-analyzing-political-parody-in-social-media-is-important-c44f687403ed)
 
-Recommended citation: Antonis Maronikolakis, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras:
+**Recommended citation:** Antonis Maronikolakis, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras:
 Analyzing Political Parody in Social Media. ACL 2020: 4373-4384.
