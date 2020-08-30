@@ -13,3 +13,5 @@ I'm a PhD student in the Speech and Language Technologies CDT at University of S
 My research interests are natural language processing, machine learning, and data science, and my field of study is multimodal computational social science. 
 
 I believe technology is a powerful tool for building a better world.
+
+Email: dsanchezvillegas1@sheffield.ac.uk
