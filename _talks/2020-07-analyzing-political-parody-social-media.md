@@ -8,4 +8,4 @@ date: 2020-07-07
 location: "Virtual Conference"
 ---
 
-Pre-recorded presentation for the virtual ACL 2020 conference. [(Slides)](https://danaesavi.github.io/files/PoliticalParodyACL2020.pdf)
+Pre-recorded presentation for the virtual ACL 2020 conference. [[Slides]](https://danaesavi.github.io/files/PoliticalParodyACL2020.pdf)
