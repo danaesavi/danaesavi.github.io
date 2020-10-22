@@ -16,6 +16,7 @@ Physical places help shape how we perceive the experiences we have there. We stu
 
 
 **Paper** [PDF](https://arxiv.org/pdf/2009.14734.pdf)
+
 **Data** is available [here](https://archive.org/details/poi-data) 
 
 **Recommended citation:** Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras:
