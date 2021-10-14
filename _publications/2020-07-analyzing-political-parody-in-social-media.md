@@ -6,8 +6,6 @@ excerpt: 'We present a first study of parody using methods from computational li
 date: 2020-07-07
 venue: 'ACL'
 paperurl: 'https://www.aclweb.org/anthology/2020.acl-main.403.pdf'
-citation: 'Antonis Maronikolakis, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras:
-Analyzing Political Parody in Social Media. ACL 2020: 4373-4384.'
 ---
 
 **Abstract**
