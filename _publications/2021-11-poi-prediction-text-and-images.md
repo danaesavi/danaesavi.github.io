@@ -1,12 +1,13 @@
 ---
 title: "Point-of-Interest Type Prediction using Text and Images"
 collection: publications
-permalink: https://arxiv.org/pdf/2109.00602.pdf
+permalink:  /publication/2021-11-poi-prediction-text-and-images
 excerpt: 'We propose a model for POI type prediction combining text and image using a modality gate to control the amount of information needed from the text and image, and
 a cross-attention mechanism to learn cross-modal interactions.
 
 - 📜 [Pre-print](https://arxiv.org/pdf/2109.00602.pdf) 🗃️ [Data and Code](https://github.com/danaesavi/poi-type-prediction)' 
 venue: 'EMNLP'
+date: 2021-11-07
 ---
 
 **Abstract**
