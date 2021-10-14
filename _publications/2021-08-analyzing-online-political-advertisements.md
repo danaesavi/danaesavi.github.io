@@ -1,11 +1,11 @@
 ---
 title: "Analyzing Online Political Advertisements"
 collection: publications
-permalink: /publication/2020-point-of-interest-type-inference-from-social-media-text
-excerpt: 'In this work, we introduce a dataset of tweets mapped into Foursquare POIs (locations), evaluate several text classifier models & provide temporal analysis.
+permalink: /publication/2021-08-analyzing-online-political-advertisements
+excerpt: 'We present work on inferring ideology and sponsor type from political ads in the US. We make available two new datasets for political ad analysis, evaluate multimodal models and provide an in-depth analysis of the limitations of our models.'
 
-- 📜 [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) 🗃️ [Data](https://archive.org/details/pol_ads) [bib](https://aclanthology.org/2021.findings-acl.321.bib)
-
+- 📜 [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) 🗃️ [Data](https://archive.org/details/pol_ads) [bib](https://aclanthology.org/2021.findings-acl.321.bib)'
+date: 2021-08-02
 venue: 'Findings of ACL'
 ---
 
