@@ -18,4 +18,4 @@ Physical places help shape how we perceive the experiences we have there. We stu
 
 - 📜 [Paper](https://aclanthology.org/2020.aacl-main.80.pdf) 🗃️ [Data](https://archive.org/details/poi-data) 📽️ [Video](https://youtu.be/lgZxI0GMVQI) [bib](https://aclanthology.org/2020.aacl-main.80.bib)
 
-- Media: [Tech At Bloomberg - Point-of-Interest Type Inference from Social Media Text - December 4, 2020](https://www.techatbloomberg.com/blog/aacl-2020-bloombergs-ai-group-cto-office-engineers-and-researchers-publish-2-papers/)
+- Media: Tech At Bloomberg - [Point-of-Interest Type Inference from Social Media Text] - December 4, 2020(https://www.techatbloomberg.com/blog/aacl-2020-bloombergs-ai-group-cto-office-engineers-and-researchers-publish-2-papers/)
