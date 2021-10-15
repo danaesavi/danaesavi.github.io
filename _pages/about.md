@@ -14,5 +14,5 @@ My research interests are natural language processing, computer vision, machine 
 
 Email: dsanchezvillegas1@sheffield.ac.uk
 
-[[Prublications](https://danaesavi.github.io/publications/)][[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
+[[Prublications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
 
