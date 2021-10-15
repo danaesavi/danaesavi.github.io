@@ -1,5 +1,5 @@
 ---
-title: "AI4Dignity Counterathon 2021, LMU Multidisciplinary"
+title: "AI4Dignity Counterathon, LMU"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-07-counterathon
