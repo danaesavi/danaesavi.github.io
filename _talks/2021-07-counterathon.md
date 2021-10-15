@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-07-counterathon
 venue: "Workshop AI, Extreme Speech and Disinformation"
-date: 2020-07-26
+date: 2021-07-26
 location: "Online"
 ---
 
