@@ -3,9 +3,9 @@ title: "Machine Learning Models for Analyzing Social Media Text (Spanish)"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-03-ml-for-analyzing-social-media-text
-venue: "ITAM Research Seminar, Mexico City"
+venue: "ITAM Research Seminar"
 date: 2021-03-06
-location: "Online"
+location: "Mexico City (Online)"
 ---
 
 El análisis a gran escala del lenguaje utilizado por la gente en redes sociales tiene aplicaciones en diversas áreas como ciencia política, periodismo y geografía. En esta plática, hablaré de cómo podemos analizar la información de redes sociales con diferentes modelos como redes neuronales artificiales y modelos “pre-entrenados” (BERT,  RoBERTa). 
