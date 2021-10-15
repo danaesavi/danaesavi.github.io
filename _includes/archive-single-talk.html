@@ -26,11 +26,7 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <"{{ post.link }}">{{ title }}</a> <a "{{ base_path }}{{ post.url }}" ><i class="fa" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>> 
-      {% else %}
-        <"{{ base_path }}{{ post.url }}">{{ title }}>
-      {% endif %}
+        <p href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</p>
     </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
