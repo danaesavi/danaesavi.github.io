@@ -5,7 +5,7 @@ type: "Poster Session"
 permalink: /talks/2020-08-analyzing-political-parody-social-media
 venue: "Online Poster Session - Sheffield University"
 date: 2020-08-05
-location: "Online"
+location: "Sheffield, UK (Online)"
 ---
 
 **Online Poster Session** hosted by Sheffield University for Women in Computer Science. Participants
