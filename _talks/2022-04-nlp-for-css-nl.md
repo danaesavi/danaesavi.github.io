@@ -2,9 +2,9 @@
 title: "NLP+ for Computational Social Science"
 collection: talks
 type: "Talk"
-permalink: /talks/22022-04-nlp-for-css-nl
+permalink: /talks/2022-04-nlp-for-css-nl
 venue: "Sheffield NLP "
-date: 2020-12-03
+date: 2022-04-20
 location: "Institute of Data Science, Maastricht University"
 ---
 
