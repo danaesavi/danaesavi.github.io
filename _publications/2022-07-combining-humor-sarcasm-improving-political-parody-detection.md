@@ -5,7 +5,7 @@ permalink:  /publication/2022-07-combining-humor-sarcasm-improving-political-par
 excerpt: 'We propose a method that combines parallel encoders to capture parody, humor, and sarcasm-specific representations from input sequences, which outperforms previous state-of-the-art models for parody detection.
 
 
-- 📜 [Pre-print](https://arxiv.org/pdf/2205.03313.pdf) 🗃️ [Code](https://github.com/iamoscar1/Multi_Encoder_Model_for_Political_Parody_Prediction) '
+- 📜 [Paper](https://aclanthology.org/2022.naacl-main.131.pdf) 🗃️ [Code](https://github.com/iamoscar1/Multi_Encoder_Model_for_Political_Parody_Prediction) '
 date: 2022-07-12
 venue: NAACL
 ---
@@ -16,4 +16,4 @@ Parody is a figurative device used for mimicking entities for comedic or critica
 
 
 - 📜 [Paper](https://aclanthology.org/2022.naacl-main.131.pdf) 🗃️ [Code](https://github.com/iamoscar1/Multi_Encoder_Model_for_Political_Parody_Prediction)
-](https://github.com/danaesavi/danaesavi.github.io/tree/master/_publications)
+
