@@ -6,7 +6,7 @@ excerpt: "We describe the University of Sheffields submission to the AmericasNLP
 
 - 📜 [Paper](https://arxiv.org/abs/2306.09830) 🗃️ [Code](https://github.com/edwardgowsmith/americasnlp-2023-sheffield)"
 date: 2023-07-14
-venue: 'AmericasNLP Workshop co-located with ACL 2023'
+venue: 'AmericasNLP Workshop co-located with ACL'
 ---
 
 **Abstract**
