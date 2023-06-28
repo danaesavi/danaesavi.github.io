@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here](https://danaesavi.github.io/files/DanaeSanchezCV.pdf)
+Please find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
