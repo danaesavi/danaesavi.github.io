@@ -16,4 +16,5 @@ Parody is a figurative device used for mimicking entities for comedic or critica
 
 
 - 📜 [Paper](https://aclanthology.org/2022.naacl-main.131.pdf) 🗃️ [Code](https://github.com/iamoscar1/Multi_Encoder_Model_for_Political_Parody_Prediction)
+- Media: [Tech At Bloomberg](https://www.bloomberg.com/company/stories/bloomberg-publishes-3-ai-papers-naacl-2022/) - July 8, 2022
 
