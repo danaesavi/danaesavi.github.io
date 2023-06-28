@@ -1,4 +1,4 @@
-
+---
 title: "Sheffield's Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages"
 collection: publications
 permalink: /publication/2023-07-sheffields-submission-americasnlp
