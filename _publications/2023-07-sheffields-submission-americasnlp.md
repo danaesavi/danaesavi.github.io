@@ -2,10 +2,9 @@
 title: "Sheffield's Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages"
 collection: publications
 permalink: /publication/2023-07-sheffields-submission-americasnlp
-excerpt: 'We describe the University of Sheffield's submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages. Our approach consists of extending, training, and ensembling different variations of NLLB-200. We achieve the highest average chrF of all the submissions.
+excerpt: "We describe the University of Sheffields submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages. Our approach consists of extending, training, and ensembling different variations of NLLB-200. We achieve the highest average chrF of all the submissions.
 
-- 📜 [Paper](https://arxiv.org/abs/2306.09830) 🗃️ [Code](https://github.com/edwardgowsmith/americasnlp-2023-sheffield)'
-  
+- 📜 [Paper](https://arxiv.org/abs/2306.09830) 🗃️ [Code](https://github.com/edwardgowsmith/americasnlp-2023-sheffield)"
 date: 2023-07-14
 venue: 'AmericasNLP Workshop co-located with ACL 2023'
 ---
