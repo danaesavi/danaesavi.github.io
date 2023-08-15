@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Danae Sánchez Villegas"
   avatar           : "danae_photo.png"
-  bio              : "PhD student in NLP - Speech and Language Technologies CDT @ University of Sheffield"
+  bio              : "PhD student in NLP @ University of Sheffield"
   location         : "Sheffield, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "dsanchezvillegas1@sheffield.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Danae_Sanchez_Villegas"
+  researchgate     : #"https://www.researchgate.net/profile/Danae_Sanchez_Villegas"
   uri              :
   bitbucket        :
   codepen          :
