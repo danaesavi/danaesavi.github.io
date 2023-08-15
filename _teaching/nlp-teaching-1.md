@@ -2,7 +2,6 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Natural Language Processing"
-permalink: /teaching/nlp-teaching-1
 venue: "University of Sheffield, Computer Science Department"
 location: "Sheffield, UK"
 ---
