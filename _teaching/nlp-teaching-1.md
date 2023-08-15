@@ -4,7 +4,6 @@ collection: teaching
 type: "Natural Language Processing"
 permalink: /teaching/nlp-teaching-1
 venue: "University of Sheffield, Computer Science Department"
-date: 2020-08-01
 location: "Sheffield, UK"
 ---
 
