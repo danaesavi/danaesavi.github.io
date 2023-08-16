@@ -18,6 +18,7 @@ __Updates__
 - <span style="color:gray;">Dec 2022: </span> Finished my internship with the Alexa Shopping Science Team in Amazon London.
 - <span style="color:gray;">July 2022: </span> In Seattle for [NAACL 2022](https://2022.naacl.org/) presenting [Combining Humor and Sarcasm for Improving Political Parody Detection](https://aclanthology.org/2022.naacl-main.131/).
 - <span style="color:gray;">Jun 2022: </span> Starting my internship with the Alexa Shopping Science Team in Amazon London.
+- <span style="color:gray;">May 2022: </span> In Dublin attending [ACL 2022](https://www.2022.aclweb.org/).
 - <span style="color:gray;">April 2022: </span> In Utrecht University talking about machine learning and how to collect annotationn at the first Annotation Hackathon. 
 - <span style="color:gray;">April 2022: </span> In Maastricht University talking about NLP for computational social science.
 - <span style="color:gray;">Nov 2021: </span> Paper accepted at EMNLP 2021 [Point-of-Interest Type Prediction using Text and Images](https://aclanthology.org/2021.emnlp-main.614/).
