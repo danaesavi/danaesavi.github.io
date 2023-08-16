@@ -22,10 +22,12 @@ __Updates__
 - <span style="color:gray;">April 2022: </span> In Utrecht University talking about machine learning and how to collect annotationn at the first Annotation Hackathon. 
 - <span style="color:gray;">April 2022: </span> In Maastricht University talking about _NLP for Computational Social Science_.
 - <span style="color:gray;">Nov 2021: </span> Paper accepted at EMNLP 2021 [Point-of-Interest Type Prediction using Text and Images](https://aclanthology.org/2021.emnlp-main.614/).
+- <span style="color:gray;">July 2020: </span> Attending [OxML 2021](https://www.oxfordml.school/oxml2021) (remote).
 - <span style="color:gray;">Aug 2021: </span> Paper accepted at Findings of ACL 2021 [Analyzing Online Political Advertisements](https://aclanthology.org/2021.findings-acl.321/).
 - <span style="color:gray;">Mar 2021: </span> Presenting at the ITAM Research Seminar _NLP for Computational Social Science_.
 - <span style="color:gray;">Dec 2020: </span> Presenting at the Sheffield NLP Seminar _NLP for Computational Social Science_.
 - <span style="color:gray;">Dec 2020: </span> Paper Accepted at AACL 2020 [Point-of-Interest Type Inference from Social Media Text](https://aclanthology.org/2020.aacl-main.80/).
+- <span style="color:gray;">July 2020: </span> Attending [LxMLS 2020](http://lxmls.it.pt/2020/) (remote).
 - <span style="color:gray;">Jul 2020: </span> Paper Accepted at ACL 2020 [Analyzing Political Parody in Social Media](https://aclanthology.org/2020.acl-main.403/).
 - <span style="color:gray;">Oct 2019: </span> Starting my PhD in NLP at University of Sheffield. Working on multimodal analysis of social media supervised by Professor Nikos Aletras.
 - <span style="color:gray;">Aug 2019: </span> Finished my MSc. in Computer Science at University of Sheffield!
