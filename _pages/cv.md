@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
+You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __Updates__
-- <span style="color:gray;">Aug 2023: </span> Starting a new position as Research Associate in the Natural Language Processing Group at University of Sheffield.
+- <span style="color:gray;">Aug 2023</span> Starting a new position as Research Associate in the Natural Language Processing Group at University of Sheffield.
 - <span style="color:gray;">July 2023: </span> In Lisbon for [LxMLS 2023](http://lxmls.it.pt/2023/) attending as a monitor.
 - <span style="color:gray;">July 2023: </span> In Toronto for [ACL 2023](https://2023.aclweb.org/). [Best submission](https://aclanthology.org/2023.americasnlp-1.21/) to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages.
 - <span style="color:gray;">Dec 2022: </span> Finished my internship with the Alexa Shopping Science Team in Amazon London.
