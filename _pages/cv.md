@@ -11,7 +11,8 @@ redirect_from:
 
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
-__Updates__
+__News__
+- <span style="color:gray;">Sep 2023</span> Paper accepted at AACL 2023 [A Multimodal Analysis of Influencer Content on Twitter](https://arxiv.org/pdf/2309.03064.pdf) See you in Bali! 
 - <span style="color:gray;">Aug 2023</span> Starting a new position as Research Associate in the Natural Language Processing Group at University of Sheffield.
 - <span style="color:gray;">July 2023</span> In Lisbon for [LxMLS 2023](http://lxmls.it.pt/2023/) attending as a monitor.
 - <span style="color:gray;">July 2023</span> In Toronto for [ACL 2023](https://2023.aclweb.org/). [Best submission](https://aclanthology.org/2023.americasnlp-1.21/) to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages.
