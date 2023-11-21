@@ -19,4 +19,4 @@ political parties and third-party organizations; (3) Influencer
 Content: examining influencer content, with a focus on multimodal
 methods to detect monetized posts.
 
-[Slides](https://danaesavi.github.io/files/Copenhagen-Beyond Words_ Analyzing Social Media with Text and Images.pdf)
+- [Slides](https://danaesavi.github.io/files/Copenhagen-Beyond%20Words_%20Analyzing%20Social%20Media%20with%20Text%20and%20Images.pdf)
