@@ -16,7 +16,7 @@ In my free time, I enjoy yoga and swimming.
 
 Email: dsanchezvillegas1@sheffield.ac.uk
 
-[[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
+[[News](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
 
 
 
