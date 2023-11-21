@@ -22,6 +22,7 @@ models that combine text and visual information showing that our proposed cross-
 We show that multimodal modeling is useful for identifying commercial posts, reducing the amount of false positives, and capturing relevant context that aids in the discovery of undisclosed commercial posts
 
 
-- 📜 [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) 
+- [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)
+- [Data](https://github.com/danaesavi/micd-influencer-content-twitter)
 
 
