@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-10-beyond-words
 venue: "University of Copenhagen"
-date: 2020-12-03
+date: 2023-10-04
 ---
 
 People express their opinions and experiences through text and images
