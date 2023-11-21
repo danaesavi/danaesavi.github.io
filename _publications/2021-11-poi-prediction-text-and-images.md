@@ -5,7 +5,7 @@ permalink:  /publication/2021-11-poi-prediction-text-and-images
 excerpt: 'We propose a model for POI type prediction combining text and image using a modality gate to control the amount of information needed from the text and image, and
 a cross-attention mechanism to learn cross-modal interactions.
 
-- 📜 [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) 🗃️ [Data and Code](https://github.com/danaesavi/poi-type-prediction) [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) [bib](https://aclanthology.org/2021.emnlp-main.614.bib) '
+- [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) | [Data and Code](https://github.com/danaesavi/poi-type-prediction) | [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) [bib](https://aclanthology.org/2021.emnlp-main.614.bib) '
 venue: 'EMNLP'
 date: 2021-11-07
 ---
@@ -31,4 +31,4 @@ significantly outperforming the state-of-the-art
 method for POI type prediction based on textonly methods. Finally, we provide a detailed
 analysis to shed light on cross-modal interactions and the limitations of our best performing model.
 
-- 📜 [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) 🗃️ [Data and Code](https://github.com/danaesavi/poi-type-prediction) [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) [bib](https://aclanthology.org/2021.emnlp-main.614.bib)
+- [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) | [Data and Code](https://github.com/danaesavi/poi-type-prediction) | [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) | [bib](https://aclanthology.org/2021.emnlp-main.614.bib)
