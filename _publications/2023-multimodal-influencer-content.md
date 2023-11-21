@@ -1,9 +1,9 @@
 ---
 title: "A Multimodal Analysis of Influencer Content on Twitter"
 collection: publications
-excerpt: 'Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. We introduce a new dataset, and experiments to improve the detection of commercial influencer content.
+excerpt: 'Best Area Chair Awaard -- Sociatey & NLP. Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. We introduce a new dataset, and experiments to improve the detection of commercial influencer content.
 
-- 📜 [Paper](https://arxiv.org/pdf/2309.03064.pdf)'
+- 📜 [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)'
 
 date: 2023-09-07
 venue: 'AACL'
@@ -22,6 +22,6 @@ models that combine text and visual information showing that our proposed cross-
 We show that multimodal modeling is useful for identifying commercial posts, reducing the amount of false positives, and capturing relevant context that aids in the discovery of undisclosed commercial posts
 
 
-- 📜 [Paper](https://arxiv.org/pdf/2309.03064.pdf) 
+- 📜 [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) 
 
 
