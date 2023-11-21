@@ -12,9 +12,12 @@ redirect_from:
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __News__
+- <span style="color:gray;">Dec 2023</span> In Singapore attending [EMNLP 2023](https://2023.emnlp.org/)
+- <span style="color:gray;">Nov 2023</span> In Bali for [AACL 2023](http://www.ijcnlp-aacl2023.org/) presenting [A Multimodal Analysis of Influencer Content on Twitter](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) **Best Area Chair Award -- Society & NLP**.
+- <span style="color:gray;">Oct 2023</span> Passed my PhD viva with minor corrections! Examiners: [Dr. Carolina Scarton](https://www.sheffield.ac.uk/dcs/people/academic/carolina-scarton) (Sheffield) & [Professor Andreas Vlachos](https://www.cst.cam.ac.uk/people/av308) (Cambridge)
 - <span style="color:gray;">Sep 2023</span> New pre-print available [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794). Work with [Nikos Aletras](https://nikosaletras.com/) and [Daniel Preoţiuc-Pietro](https://www.preotiuc.ro/)
 - <span style="color:gray;">Sep 2023</span> Paper accepted at [AACL 2023](http://www.ijcnlp-aacl2023.org/) 🌟 [A Multimodal Analysis of Influencer Content on Twitter](https://arxiv.org/pdf/2309.03064.pdf) - See you in Bali! 
-- <span style="color:gray;">Aug 2023</span> Starting a new position as Research Associate in the Natural Language Processing Group at University of Sheffield.
+- <span style="color:gray;">Aug 2023</span> Starting a new position as [Research Associate in the Natural Language Processing Group](https://nikosaletras.com/team/) at University of Sheffield.
 - <span style="color:gray;">July 2023</span> In Lisbon for [LxMLS 2023](http://lxmls.it.pt/2023/) attending as a monitor.
 - <span style="color:gray;">July 2023</span> In Toronto for [ACL 2023](https://2023.aclweb.org/). [Best submission](https://aclanthology.org/2023.americasnlp-1.21/) to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages.
 - <span style="color:gray;">Dec 2022</span> Finished my internship with the Alexa Shopping Science Team in Amazon London.
