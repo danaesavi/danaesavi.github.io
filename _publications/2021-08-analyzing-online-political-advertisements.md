@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-08-analyzing-online-political-advertisements
 excerpt: 'We present work on inferring ideology and sponsor type from political ads in the US. We make available two new datasets for political ad analysis, evaluate multimodal models and provide an in-depth analysis of the limitations of our models.
 
-- [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) | [Data](https://archive.org/details/pol_ads) | [bib](https://aclanthology.org/2021.findings-acl.321.bib)'
+- [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) [Data](https://archive.org/details/pol_ads) [bib](https://aclanthology.org/2021.findings-acl.321.bib)'
 date: 2021-08-02
 venue: 'Findings of ACL'
 ---
@@ -29,4 +29,4 @@ generic commercial ad classification. Finally,
 we provide an in-depth analysis of the limitations of our best-performing models and linguistic analysis to study the characteristics of
 political ads discourse.
 
-- [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) | [Data](https://archive.org/details/pol_ads) | [bib](https://aclanthology.org/2021.findings-acl.321.bib)
+- [Paper](https://aclanthology.org/2021.findings-acl.321.pdf) [Data](https://archive.org/details/pol_ads) [bib](https://aclanthology.org/2021.findings-acl.321.bib)
