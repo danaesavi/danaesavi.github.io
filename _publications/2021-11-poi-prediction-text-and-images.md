@@ -31,4 +31,4 @@ significantly outperforming the state-of-the-art
 method for POI type prediction based on textonly methods. Finally, we provide a detailed
 analysis to shed light on cross-modal interactions and the limitations of our best performing model.
 
-- [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) | [Data and Code](https://github.com/danaesavi/poi-type-prediction) | [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) | [bib](https://aclanthology.org/2021.emnlp-main.614.bib)
+- [Paper](https://aclanthology.org/2021.emnlp-main.614.pdf) | [Data](https://github.com/danaesavi/poi-type-prediction) | [Poster](https://danaesavi.github.io/files/VPOI_Poster.pdf) | [bib](https://aclanthology.org/2021.emnlp-main.614.bib)
