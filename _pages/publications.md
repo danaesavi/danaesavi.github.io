@@ -16,7 +16,7 @@ author_profile: true
  <div class="column-right">
  
    A Multimodal Analysis of Influencer Content on Twitter 🏆 Best Area Chair Award –
-   Society & NLP. In AACL 2023 <br>
+   Society & NLP. In AACL 2023. <br>
    <i><b>Danae Sánchez Villegas</b>, Catalina Goanta, Nikolaos Aletras</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf" %}   
@@ -24,9 +24,8 @@ author_profile: true
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/AACL2023-Influencers.pdf" %} <br>
    
    <ul>
-   <li>A new Twitter (now X) dataset of influencer posts mapped into commercial and non-commercial categories for assisting in the automatic detection of commercial influencer content </li>
-   <li>Experiments with an extensive set of predictive models that combine text and visual information </li>
-   <li>Analysis of strengths and limitations of our models.</li>
+   <li>Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. </li>
+   <li>We introduce a new dataset, and experiments to improve the detection of commercial influencer content.</li>
    </ul>
  
  </div>
@@ -38,7 +37,7 @@ author_profile: true
  </div>
  <div class="column-right">
   
-  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. 🥇 Best Submission. In Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP) 2023 <br>
+  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. 🥇 Best Submission. In Workshop on Natural Language Processing for Indigenous Languages of the Americas 2023. <br>
  <i>Edward Gow-Smith, <b>Danae Sánchez Villegas</b></i>.<br>
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.americasnlp-1.21/" %}   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/edwardgowsmith/americasnlp-2023-sheffield" %} <br>
@@ -142,7 +141,7 @@ author_profile: true
 
 <div class="columns">
  <div class="column-left">
-   {% include button.html button_name="ACL 2020" button_class="primary" %} 
+   {% include button.html button_name="ACL" button_class="primary" %} 
  </div>
  <div class="column-right">
   
