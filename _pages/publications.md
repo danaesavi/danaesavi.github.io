@@ -16,8 +16,8 @@ author_profile: true
  <div class="column-right">
  
    A Multimodal Analysis of Influencer Content on Twitter 🏆 Best Area Chair Award –
-   Society & NLP. <br>
-   <i><b>Danae Sánchez Villegas</b>, Catalina Goanta, Nikolaos Aletras</i>. In AACL 2023 <br>
+   Society & NLP. In AACL 2023 <br>
+   <i><b>Danae Sánchez Villegas</b>, Catalina Goanta, Nikolaos Aletras</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf" %}   
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://github.com/danaesavi/micd-influencer-content-twitter" %}
@@ -38,8 +38,8 @@ author_profile: true
  </div>
  <div class="column-right">
   
-  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. 🥇 Best Submission. <br>
- <i>Edward Gow-Smith, <b>Danae Sánchez Villegas</b></i>. In Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP) 2023.<br>
+  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. 🥇 Best Submission. In Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP) 2023 <br>
+ <i>Edward Gow-Smith, <b>Danae Sánchez Villegas</b></i>.<br>
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.americasnlp-1.21/" %}   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/edwardgowsmith/americasnlp-2023-sheffield" %} <br>
    
