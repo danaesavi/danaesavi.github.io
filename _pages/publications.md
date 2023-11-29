@@ -23,7 +23,7 @@ author_profile: true
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://github.com/danaesavi/micd-influencer-content-twitter" %}
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/AACL2023-Influencers.pdf" %} <br>
    
-   <ul>
+   <ul style="color:gray;">
    <li>Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. </li>
    <li>We introduce a new dataset, and experiments to improve the detection of commercial influencer content.</li>
    </ul>
