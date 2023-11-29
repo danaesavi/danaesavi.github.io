@@ -32,15 +32,15 @@ author_profile: true
 <div class="column-right">
  
  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. 🥇 Best Submission. *Edward Gow-Smith, __Danae Sánchez Villegas__*. In Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP) 2023.
+ 
+  [[Paper](https://aclanthology.org/2023.americasnlp-1.21/)] [[Code](https://github.com/edwardgowsmith/americasnlp-2023-sheffield)]
+ 
+ - We describe the University of Sheffields submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.
+ - Our approach consists of extending, training, and ensembling different variations of NLLB-200.
+ - We achieve the highest average chrF of all the submissions.
 
- [[Paper](https://aclanthology.org/2023.americasnlp-1.21/)] [[Code](https://github.com/edwardgowsmith/americasnlp-2023-sheffield)]
 
-- We describe the University of Sheffields submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.
-- Our approach consists of extending, training, and ensembling different variations of NLLB-200.
-- We achieve the highest average chrF of all the submissions.
-
-
-<div class="column-right">
+</div>
   
 </div>
 
