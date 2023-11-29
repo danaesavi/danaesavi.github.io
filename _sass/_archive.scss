@@ -101,14 +101,11 @@
 
 
  .custom li {
-  font-size: $type-size-7;
-   color:#333300;
+  font-size: $type-size-6;
+  color:#333300;
 }
 
  .custom li::before {
-  content: '\2022'; /* Unicode character for a bullet (•) */
-  display: inline-block;
-  width: 1em; /* Adjust the width to control spacing between bullet and text */
   color: #333300; /* Optional: Change the color of the bullet */
 }
 
