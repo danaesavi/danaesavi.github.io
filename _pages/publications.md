@@ -72,7 +72,28 @@ author_profile: true
    </ul>
  
  </div>
+</div>
+
+
+<div class="columns">
+ <div class="column-left">
+   {% include button.html button_name="EMNLP" button_class="primary" %} 
+ </div>
+ <div class="column-right">
   
+  Point-of-Interest Type Prediction using Text and Images. In EMNLP 2021. <br>
+ <i><b>Danae Sánchez Villegas</b> and Nikolaos Aletras</i>.<br>
+
+  {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2021.emnlp-main.614.pdf" %}   
+  {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/poi-type-prediction"%} 
+  {% include buttonLink.html button_name="Poster" button_class="primary" button_link="https://danaesavi.github.io/files/VPOI_Poster.pdf" %}
+  <br>
+   
+  <ul>
+    <li> We propose a model for POI type prediction combining text and image using a modality gate to control the amount of information needed from the text and image, and a cross-attention mechanism to learn cross-modal interactions.</li>
+   </ul>
+ 
+ </div>
 </div>
 
   
