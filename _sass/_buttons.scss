@@ -110,6 +110,7 @@
   &--disabled {
     pointer-events: none;
     cursor: not-allowed;
+    color: #fff !important;
     background-color:#000033;
     box-shadow: none;
   }
