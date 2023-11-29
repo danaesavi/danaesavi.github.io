@@ -16,7 +16,7 @@ author_profile: true
 <div class="column-right">
 
   A Multimodal Analysis of Influencer Content on Twitter 🏆 Best Area Chair Award –
-  Society & NLP. *Danae Sánchez Villegas, Catalina Goanta, Nikolaos Aletras* 
+  Society & NLP. *__Danae Sánchez Villegas__, Catalina Goanta, Nikolaos Aletras* 
   
   [[Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)]  [[Data](https://github.com/danaesavi/micd-influencer-content-twitter)] [[Slides](https://danaesavi.github.io/files/AACL2023-Influencers.pdf)]
   
@@ -30,7 +30,9 @@ author_profile: true
   {% include button.html button_name="AmericasNLP" button_class="primary" %} 
 </div>
 <div class="column-right">
-  Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. *Edward Gow-Smith, Danae Sánchez Villegas*
+ 
+ Sheffield’s Submission to the AmericasNLP Shared Task on Machine Translation into Indigenous Languages. *Edward Gow-Smith, __Danae Sánchez Villegas__*
+
 <div class="column-right">
   
 </div>
