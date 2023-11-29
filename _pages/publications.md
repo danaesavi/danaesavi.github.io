@@ -23,7 +23,7 @@ author_profile: true
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://github.com/danaesavi/micd-influencer-content-twitter" %}
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/AACL2023-Influencers.pdf" %} <br>
    
-   <ul>
+   <ul class="custom">
    <li>Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. </li>
    <li>We introduce a new dataset, and experiments to improve the detection of commercial influencer content.</li>
    </ul>
@@ -42,7 +42,7 @@ author_profile: true
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.americasnlp-1.21/" %}   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/edwardgowsmith/americasnlp-2023-sheffield" %} <br>
    
-  <ul>
+  <ul class="custom">
     <li> We describe the University of Sheffields submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.</li>
     <li>Our approach consists of extending, training, and ensembling different variations of NLLB-200.</li>
     <li> We achieve the highest average chrF of all the submissions.</li>
@@ -66,7 +66,7 @@ author_profile: true
   {% include buttonLink.html button_name="Tech At Bloomberg" button_class="primary" button_link="https://www.bloomberg.com/company/stories/bloomberg-publishes-3-ai-papers-naacl-2022/" %}
   <br>
    
-  <ul>
+  <ul class="custom">
     <li> We propose a method that combines parallel encoders to capture parody, humor, and sarcasm-specific representations from input sequences, which outperforms previous state-of-the-art models for parody detection.</li>
    </ul>
  
@@ -88,7 +88,7 @@ author_profile: true
   {% include buttonLink.html button_name="Poster" button_class="primary" button_link="https://danaesavi.github.io/files/VPOI_Poster.pdf" %}
   <br>
    
-  <ul>
+  <ul class="custom">
     <li> We propose a model for POI type prediction combining text and image using a modality gate to control the amount of information needed from the text and image, and a cross-attention mechanism to learn cross-modal interactions.</li>
    </ul>
  
@@ -109,7 +109,7 @@ author_profile: true
   
   <br>
    
-  <ul>
+  <ul class="custom">
     <li>We present work on inferring ideology and sponsor type from political ads in the US. </li>
     <li>We make available two new datasets for political ad analysis, evaluate multimodal models and provide an in-depth analysis of the limitations of our models.</li>
    </ul>
@@ -132,7 +132,7 @@ author_profile: true
   
   <br>
    
-  <ul>
+  <ul class="custom">
     <li>We introduce a dataset of tweets mapped into Foursquare POIs (locations), evaluate several text classifier models & provide temporal analysis.</li>
    </ul>
  
@@ -155,7 +155,7 @@ author_profile: true
   
   <br>
    
-  <ul>
+  <ul class="custom">
     <li>We present a first study of parody using methods from computational linguistics and machine learning.</li>
    <li>We introduce a freely available large-scale data set containing a total of 131,666 English tweets from 184 real and corresponding parody accounts, and evaluate a range of neural models achieving high predictive accuracy.</li>
    </ul>
