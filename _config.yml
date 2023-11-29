@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danae Sánchez Villegas"
+  name             : "Danae Sánchez"
   avatar           : "danae_photo.png"
-  bio              : "PhD student in NLP @ University of Sheffield"
+  bio              : "Research Associate in NLP @ University of Sheffield"
   location         : "Sheffield, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
