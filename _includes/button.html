@@ -1,20 +1,16 @@
 <style>
   .btnS {
-    display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    color: #555; /* Gray text color */
-    border: 2px solid #555; /* Gray border */
-    border-radius: 5px;
-    background-color: transparent; /* Transparent background */
-    transition: background-color 0.3s, color 0.3s;
+      background-color: blue; /* Set the background color to blue */
+      color: white; /* Set the text color to white */
+      padding: 10px 20px; /* Set padding to provide some space inside the button */
+      text-decoration: none; /* Remove underline for links */
+      display: inline-block; /* Make sure it behaves as a block-level element but still respects surrounding elements */
+      margin: 0; /* Remove margins */
+      border: none; /* Remove borders */
+      border-radius: 5px; /* Add some border-radius for rounded corners */
   }
 
-  .button:hover {
-    background-color: #555; /* Gray background on hover */
-    color: #fff; /* White text color on hover */
-  }
+  
 </style>
 
 <button type="button" class="btnS btn-primary">{{include.button_name}}</button>
