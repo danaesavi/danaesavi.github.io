@@ -9,7 +9,7 @@ author_profile: true
 
 {% include button.html button_name="AACL 2023" button_class="primary" %}
 
-<mark> AACL 2023 </mark>  A Multimodal Analysis of Influencer Content on Twitter 
+<button type="button" class="btn">AACL 2023</button>  A Multimodal Analysis of Influencer Content on Twitter 
 🏆 Best Area Chair Award – Society & NLP. *Danae Sánchez Villegas, Catalina Goanta, Nikolaos Aletras*
 
 We explore the challenges in automatically detecting regulatory compliance breaches in influencer advertising. We introduce a new dataset, and experiments to improve the detection of commercial influencer content.
