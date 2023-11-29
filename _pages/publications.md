@@ -49,6 +49,27 @@ author_profile: true
     <li> We achieve the highest average chrF of all the submissions.</li>
    </ul>
  
+ </div>
+  
+</div>
+
+<div class="columns">
+ <div class="column-left">
+   {% include button.html button_name="NAACL" button_class="primary" %} 
+ </div>
+ <div class="column-right">
+  
+  Combining Humor and Sarcasm for Improving Political Parody Detection. In NAACL 2022. <br>
+ <i>Xiao Ao, <b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>.<br>
+
+  {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2022.naacl-main.131/" %}   
+  {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/iamoscar1/Multi_Encoder_Model_for_Political_Parody_Prediction"%} 
+  {% include buttonLink.html button_name="Tech At Bloomberg" button_class="primary" button_link="https://www.bloomberg.com/company/stories/bloomberg-publishes-3-ai-papers-naacl-2022/" %}
+  <br>
+   
+  <ul>
+    <li> We propose a method that combines parallel encoders to capture parody, humor, and sarcasm-specific representations from input sequences, which outperforms previous state-of-the-art models for parody detection.</li>
+   </ul>
  
  </div>
   
