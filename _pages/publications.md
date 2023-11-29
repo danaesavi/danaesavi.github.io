@@ -96,5 +96,71 @@ author_profile: true
  </div>
 </div>
 
+<div class="columns">
+ <div class="column-left">
+   {% include button.html button_name="ACL-Findings" button_class="primary" %} 
+ </div>
+ <div class="column-right">
   
+  Analyzing Online Political Advertisements. In ACL Findings 2021. <br>
+ <i><b>Danae Sánchez Villegas</b>, Saeid Mokaram, Nikolaos Aletras</i>.<br>
+
+  {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2021.findings-acl.321.pdf" %}   
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/pol_ads"%} 
+  
+  <br>
+   
+  <ul>
+    <li>We present work on inferring ideology and sponsor type from political ads in the US. </li>
+    <li>We make available two new datasets for political ad analysis, evaluate multimodal models and provide an in-depth analysis of the limitations of our models.</li>
+   </ul>
+ 
+ </div>
+</div>
+
+  <div class="columns">
+ <div class="column-left">
+   {% include button.html button_name="AACL" button_class="primary" %} 
+ </div>
+ <div class="column-right">
+  
+  Point-of-Interest Type Inference from Social Media Text. In AACL 2020. <br>
+ <i><b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>.<br>
+
+  {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2020.aacl-main.80.pdf" %}   
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/poi-data"%} 
+   {% include buttonLink.html button_name="Tech At Bloomberg" button_class="primary" button_link="https://www.techatbloomberg.com/blog/aacl-2020-bloombergs-ai-group-cto-office-engineers-and-researchers-publish-2-papers/"%} 
+  
+  <br>
+   
+  <ul>
+    <li>We introduce a dataset of tweets mapped into Foursquare POIs (locations), evaluate several text classifier models & provide temporal analysis.</li>
+   </ul>
+ 
+ </div>
+</div>
+
+<div class="columns">
+ <div class="column-left">
+   {% include button.html button_name="ACL 2020" button_class="primary" %} 
+ </div>
+ <div class="column-right">
+  
+  Analyzing Political Parody in Social Media. In ACL 2020. <br>
+ <i>Antonis Maronikolakis, <b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>.<br>
+
+  {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://www.aclweb.org/anthology/2020.acl-main.403.pdf" %}   
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/parody_data_acl20"%} 
+   {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/PoliticalParodyACL2020.pdf"%} 
+    {% include buttonLink.html button_name="Blog Post" button_class="primary" button_link="https://medium.com/@danaesavi/why-analyzing-political-parody-in-social-media-is-important-c44f687403ed"%} 
+  
+  <br>
+   
+  <ul>
+    <li>We present a first study of parody using methods from computational linguistics and machine learning.</li>
+   <li>We introduce a freely available large-scale data set containing a total of 131,666 English tweets from 184 real and corresponding parody accounts, and evaluate a range of neural models achieving high predictive accuracy.</li>
+   </ul>
+ 
+ </div>
+</div>
 
