@@ -10,7 +10,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="AACL" button_class="default" %} 
+     {% include button.html button_name="AACL"%} 
    </div>
  
  <div class="column-right">
