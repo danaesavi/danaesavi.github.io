@@ -15,9 +15,18 @@ author_profile: true
 </td>
 <td>
 
-A Multimodal Analysis of Influencer Content on Twitter 🏆 Best Area Chair Award – Society & NLP. *Danae Sánchez Villegas, Catalina Goanta, Nikolaos Aletras*
+A Multimodal Analysis of Influencer Content on Twitter 🏆 Best Area Chair Award – Society & NLP. *__Danae Sánchez Villegas__, Catalina Goanta, Nikolaos Aletras* <br>
+[[Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)]  [[Data](https://github.com/danaesavi/micd-influencer-content-twitter)] [[Slides](https://danaesavi.github.io/files/AACL2023-Influencers.pdf)]
+</td>
+</tr>
 
-We (1) introduce a new Twitter (now X) dataset of influencer posts mapped into commercial and non-commercial categories for assisting in the automatic detection of commercial influencer content; (2) experiment with an extensive set of predictive models that combine text and visual information showing that our proposed cross-attention approach outperforms state-ofthe-art multimodal models; and (3) conduct a thorough analysis of strengths and limitations of our models. |
+<tr>
+<td>
+</td>
+<td>
+- A new Twitter (now X) dataset of influencer posts mapped into commercial and non-commercial categories for assisting in the automatic detection of commercial influencer content <br>
+- Experiments with an extensive set of predictive models that combine text and visual information <br>
+- Analysis of strengths and limitations of our models.
 
 </td>
 </tr>
