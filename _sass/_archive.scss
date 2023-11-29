@@ -96,20 +96,20 @@
 }
 
 .column-right {
-  flex: 7;
+  flex: 6;
 }
 
 
  .custom li {
   font-size: $type-size-7;
-   color:gray;
+   color:#333300;
 }
 
  .custom li::before {
   content: '\2022'; /* Unicode character for a bullet (•) */
   display: inline-block;
   width: 1em; /* Adjust the width to control spacing between bullet and text */
-  color: gray; /* Optional: Change the color of the bullet */
+  color: #333300; /* Optional: Change the color of the bullet */
 }
 
 
