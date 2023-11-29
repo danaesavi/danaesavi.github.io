@@ -99,18 +99,13 @@
   flex: 7;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 
-li {
+ .custom li {
   font-size: $type-size-7;
-   color:#000033;
+   color:gray;
 }
 
-li::before {
+ .custom li::before {
   content: '\2022'; /* Unicode character for a bullet (•) */
   display: inline-block;
   width: 1em; /* Adjust the width to control spacing between bullet and text */
