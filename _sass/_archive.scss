@@ -106,15 +106,14 @@ ul {
 }
 
 li {
-  font-size: 20px;
-  margin-bottom: 8px; /* Optional: Add spacing between list items */
+  font-size: $type-size-7;
+   color:#000033;
 }
 
 li::before {
   content: '\2022'; /* Unicode character for a bullet (•) */
   display: inline-block;
   width: 1em; /* Adjust the width to control spacing between bullet and text */
-  margin-right: 8px; /* Add spacing between the bullet and the text */
   color: gray; /* Optional: Change the color of the bullet */
 }
 
