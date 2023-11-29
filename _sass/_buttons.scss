@@ -110,9 +110,8 @@
   &--disabled {
     pointer-events: none;
     cursor: not-allowed;
-    filter: alpha(opacity=65);
+    background-color:#000033;
     box-shadow: none;
-    opacity: 0.65;
   }
 
   /* social buttons */
