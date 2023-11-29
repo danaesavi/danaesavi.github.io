@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Publications**
+{% include button.html button_name="AACL 2023" button_class="primary" %}
 
 <mark> AACL 2023 </mark>  A Multimodal Analysis of Influencer Content on Twitter 
 🏆 Best Area Chair Award – Society & NLP. *Danae Sánchez Villegas, Catalina Goanta, Nikolaos Aletras*
