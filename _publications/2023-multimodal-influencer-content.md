@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Analysis of Influencer Content on Twitter"
 collection: publications
-excerpt: 'Best Area Chair Awaard -- Society & NLP. Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. We introduce a new dataset, and experiments to improve the detection of commercial influencer content.
+excerpt: 'Best Area Chair Award -- Society & NLP. Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. We introduce a new dataset, and experiments to improve the detection of commercial influencer content.
 
 - [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf)  [Data](https://github.com/danaesavi/micd-influencer-content-twitter)'
 
