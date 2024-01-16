@@ -150,6 +150,7 @@ author_profile: true
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://www.aclweb.org/anthology/2020.acl-main.403.pdf" %}   
   {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/parody_data_acl20"%} 
+   {% include buttonLink.html button_name="Full Dataset Request" button_class="primary" button_link="https://forms.gle/9c7Sto96c247fxtQ7" %} 
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/PoliticalParodyACL2020.pdf"%} 
     {% include buttonLink.html button_name="Blog Post" button_class="primary" button_link="https://medium.com/@danaesavi/why-analyzing-political-parody-in-social-media-is-important-c44f687403ed"%} 
   
