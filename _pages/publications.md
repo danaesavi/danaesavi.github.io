@@ -43,7 +43,7 @@ author_profile: true
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.americasnlp-1.21/" %}   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/edwardgowsmith/americasnlp-2023-sheffield" %} <br>
    
   <ul class="custom">
-    <li> We describe the University of Sheffields submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.</li>
+    <li> We describe our submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.</li>
     <li>Our approach consists of extending, training, and ensembling different variations of NLLB-200.</li>
     <li> We achieve the highest average chrF of all the submissions.</li>
    </ul>
@@ -84,7 +84,7 @@ author_profile: true
  <i><b>Danae Sánchez Villegas</b> and Nikolaos Aletras</i>.<br>
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2021.emnlp-main.614.pdf" %}   
-  {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/poi-type-prediction"%} 
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://forms.gle/LgbsZeZSyDCh3xFS6" %} 
   {% include buttonLink.html button_name="Poster" button_class="primary" button_link="https://danaesavi.github.io/files/VPOI_Poster.pdf" %}
   <br>
    
@@ -105,7 +105,7 @@ author_profile: true
  <i><b>Danae Sánchez Villegas</b>, Saeid Mokaram, Nikolaos Aletras</i>.<br>
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2021.findings-acl.321.pdf" %}   
-  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/pol_ads"%} 
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/pol_ads" %} 
   
   <br>
    
@@ -127,7 +127,7 @@ author_profile: true
  <i><b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>.<br>
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2020.aacl-main.80.pdf" %}   
-  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/poi-data"%} 
+  {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://archive.org/details/poi-data" %} 
    {% include buttonLink.html button_name="Tech At Bloomberg" button_class="primary" button_link="https://www.techatbloomberg.com/blog/aacl-2020-bloombergs-ai-group-cto-office-engineers-and-researchers-publish-2-papers/"%} 
   
   <br>
