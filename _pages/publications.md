@@ -10,6 +10,29 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
+     {% include button.html button_name="EACL-Findings"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks. In EACL 2024 Findings. <br>
+   <i><b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>. <br>
+
+   {% include buttonLink.html button_name="Arxiv" button_class="primary" button_link="https://arxiv.org/abs/2309.07794" %}   
+   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/SocialMedia-TextImage-Classification-AuxLosses" %}
+    <br>
+   
+   <ul class="custom">
+   <li>We use two auxiliary losses, Image-Text Contrastive (ITC) and Image-Text Matching (ITM), jointly with the main task when fine-tuning any pre-trained multimodal model for social media posts classification. </li>
+    <li>We combine these objectives with five multimodal models, demonstrating consistent improvements across four popular social media datasets.
+   </ul>
+ 
+ </div>
+</div>
+
+<div class="columns">
+ 
+ <div class="column-left">
      {% include button.html button_name="AACL"%} 
    </div>
  
