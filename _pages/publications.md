@@ -24,7 +24,7 @@ author_profile: true
    
    <ul class="custom">
    <li>We use two auxiliary losses, Image-Text Contrastive (ITC) and Image-Text Matching (ITM), jointly with the main task when fine-tuning any pre-trained multimodal model for social media posts classification. </li>
-    <li>We combine these objectives with five multimodal models, demonstrating consistent improvements across four popular social media datasets.
+    <li>We combine these objectives with five multimodal models, demonstrating consistent improvements across four popular social media datasets.</li>
    </ul>
  
  </div>
