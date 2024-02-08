@@ -42,7 +42,7 @@ author_profile: true
    Society & NLP. In AACL 2023. <br>
    <i><b>Danae Sánchez Villegas</b>, Catalina Goanta, Nikolaos Aletras</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.ijcnlp-main.15.pdf" %}   
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://github.com/danaesavi/micd-influencer-content-twitter" %}
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/AACL2023-Influencers.pdf" %} <br>
    
