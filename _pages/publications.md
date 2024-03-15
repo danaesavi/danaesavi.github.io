@@ -187,3 +187,24 @@ author_profile: true
  </div>
 </div>
 
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="Thesis"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Beyond Words: Analyzing Social Media with Text and Images. PhD thesis, University of Sheffield. <br>
+   <i><b>Danae Sánchez Villegas</b></i>. <br>
+
+   {% include buttonLink.html button_name="eThesis" button_class="primary" button_link="https://etheses.whiterose.ac.uk/33952/" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>My Ph.D. thesis is particularly focused on introducing challenging tasks as well as novel methods to gain a better understanding of multimodal content and its underlying dynamics in the context of social media. </ul>
+ 
+ </div>
+</div>
+
+
