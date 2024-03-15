@@ -190,7 +190,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="Thesis"%} 
+     {% include button.html button_name="Thesis" button_class="primary"%} 
    </div>
  
  <div class="column-right">
