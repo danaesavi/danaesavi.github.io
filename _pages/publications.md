@@ -202,7 +202,8 @@ author_profile: true
     <br>
    
    <ul class="custom">
-   <li>My Ph.D. thesis is particularly focused on introducing challenging tasks as well as novel methods to gain a better understanding of multimodal content and its underlying dynamics in the context of social media. </ul>
+   <li>My Ph.D. thesis is particularly focused on introducing challenging tasks as well as novel methods to gain a better understanding of multimodal content and its underlying dynamics in the context of social media. .</li>
+   </ul>
  
  </div>
 </div>
