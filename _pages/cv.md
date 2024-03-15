@@ -11,13 +11,6 @@ redirect_from:
 
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
-__News__
-- <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen
-- <span style="color:gray;">Jan 2024</span> One paper accepted at [EACL 2024 Findings](https://2024.eacl.org/) 🌟 [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794)
-- <span style="color:gray;">Dec 2023</span> In Singapore attending [EMNLP 2023](https://2023.emnlp.org/)
-- <span style="color:gray;">Nov 2023</span> In Bali for [AACL 2023](http://www.ijcnlp-aacl2023.org/) presenting [A Multimodal Analysis of Influencer Content on Twitter](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) **Best Area Chair Award -- Society & NLP**.
-- <span style="color:gray;">Oct 2023</span> Passed my PhD viva with minor corrections! Examiners: [Dr. Carolina Scarton](https://www.sheffield.ac.uk/dcs/people/academic/carolina-scarton) (Sheffield) & [Professor Andreas Vlachos](https://www.cst.cam.ac.uk/people/av308) (Cambridge)
-
 __Blog__
 - <span style="color:gray;">Sep 2023</span> New pre-print available [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794). Work with [Nikos Aletras](https://nikosaletras.com/) and [Daniel Preoţiuc-Pietro](https://www.preotiuc.ro/)
 - <span style="color:gray;">Sep 2023</span> Paper accepted at [AACL 2023](http://www.ijcnlp-aacl2023.org/) 🌟 [A Multimodal Analysis of Influencer Content on Twitter](https://arxiv.org/pdf/2309.03064.pdf) - See you in Bali! 
