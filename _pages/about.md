@@ -16,7 +16,7 @@ In my free time, I enjoy yoga and swimming.
 
 Email: davi@di.ku.dk
 
-[[News](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
+[[Blog](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
 
 
 __News__
