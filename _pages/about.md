@@ -19,4 +19,11 @@ Email: davi@di.ku.dk
 [[News](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
 
 
+__News__
+- <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen
+- <span style="color:gray;">Jan 2024</span> One paper accepted at [EACL 2024 Findings](https://2024.eacl.org/) 🌟 [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794)
+- <span style="color:gray;">Dec 2023</span> In Singapore attending [EMNLP 2023](https://2023.emnlp.org/)
+- <span style="color:gray;">Nov 2023</span> In Bali for [AACL 2023](http://www.ijcnlp-aacl2023.org/) presenting [A Multimodal Analysis of Influencer Content on Twitter](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) **Best Area Chair Award -- Society & NLP**.
+- <span style="color:gray;">Oct 2023</span> Passed my PhD viva with minor corrections! Examiners: [Dr. Carolina Scarton](https://www.sheffield.ac.uk/dcs/people/academic/carolina-scarton) (Sheffield) & [Professor Andreas Vlachos](https://www.cst.cam.ac.uk/people/av308) (Cambridge)
+
 
