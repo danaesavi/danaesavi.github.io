@@ -20,6 +20,7 @@ Email: davi@di.ku.dk
 
 
 __News__
+- <span style="color:gray;">Mar 2024</span> Joined the [LatinX in NLP at NAACL](https://www.latinxinai.org/naacl-2024) committee as volunteer chair! We are seeking enthusiastic volunteers to assist in the smooth running of the workshop | [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSck-DnuReAa8RxN2fAEH6W-93tbui1PjPnBnNU7ThXs4CdVlQ/viewform).
 - <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen
 - <span style="color:gray;">Jan 2024</span> One paper accepted at [EACL 2024 Findings](https://2024.eacl.org/) 🌟 [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794)
 - <span style="color:gray;">Dec 2023</span> In Singapore attending [EMNLP 2023](https://2023.emnlp.org/)
