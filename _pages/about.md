@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Researcher at the University of Copenhagen [CoAStaL](https://coastalcph.github.io/) group working on multimodal models for NLP. I recently completed my Ph.D. in NLP at The University of Sheffield under the supervision of [Professor Nikos Aletras](http://nikosaletras.com/). Previously, I obtained an MSc in Computer Science from Sheffield University and a BSc in Computer Engineering from the Instituto Tecnológico Autónomo de México. I worked as a Research Associate at [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) group at The University of Sheffield and as an Applied Scientist intern at [Amazon](https://www.amazon.science/) with the Alexa Shopping Science team based in London. 
+I'm a Postdoctoral Researcher at the University of Copenhagen working on multimodal models for NLP. I recently completed my Ph.D. in NLP at The University of Sheffield under the supervision of [Professor Nikos Aletras](http://nikosaletras.com/). Previously, I obtained an MSc in Computer Science from Sheffield University and a BSc in Computer Engineering from the Instituto Tecnológico Autónomo de México. I worked as a Research Associate at [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) group at The University of Sheffield and as an Applied Scientist intern at [Amazon](https://www.amazon.science/) with the Alexa Shopping Science team based in London. 
 
 My research interests are in natural language processing, vision-and-language modeling, and computational social science.
 
