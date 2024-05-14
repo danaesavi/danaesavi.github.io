@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danae Sánchez"
 title_separator          : "-"
 name                     : &name "Danae Sánchez"
-description              : &description "Research Associate in NLP @ University of Sheffield dsanchezvillegas1@sheffield.ac.uk"
+description              : &description "Postdoc working on NLP and Multimodal Learning @ University of Copenhagen davi@di.ku.dk"
 url                      : https://danaesavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danaesavi/danaesavi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Danae Sánchez"
   avatar           : "danae_photo.png"
-  bio              : "Research Associate in NLP @ University of Sheffield"
-  location         : "Sheffield, UK"
+  bio              : "Postdoc in NLP @ University of Copenhagen"
+  location         : "Copenhagen, DK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "dsanchezvillegas1@sheffield.ac.uk"
+  email            : "davi@di.ku.dk"
   researchgate     : #"https://www.researchgate.net/profile/Danae_Sanchez_Villegas"
   uri              :
   bitbucket        :
