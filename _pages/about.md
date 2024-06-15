@@ -20,6 +20,7 @@ Email: davi@di.ku.dk
 
 
 __News__
+- <span style="color:gray;">Jun 2024</span> Attending NAACL 2024 in Mexico city.
 - <span style="color:gray;">May 2024</span> Teaching at the University of Copenhagen topics on Natural Language Processing [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).
 -  <span style="color:gray;">Apr 2024</span> Happy to announce I've been invited to give a tutorial on transformer models at the [Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/) co-located with NAACL 2024. See you in Mexico City!
 - <span style="color:gray;">Mar 2024</span> Joined the [LatinX in NLP at NAACL](https://www.latinxinai.org/naacl-2024) committee as volunteer chair! We are seeking enthusiastic volunteers to assist in the smooth running of the workshop [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSck-DnuReAa8RxN2fAEH6W-93tbui1PjPnBnNU7ThXs4CdVlQ/viewform).
