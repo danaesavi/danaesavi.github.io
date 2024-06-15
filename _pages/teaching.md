@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+**Mexican NLP Summer School 2024 - [Tutorial: Exploring Transformers and Limitations in Language Modeling](https://danaesavi.github.io/files/NLPTutorial-Spanish.pdf)**
+- Tutorial on Language modelling and LLMs and their limitations at the [Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/), co-located with NAACL 2024
+
+**University of Copenhagen - [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).**
+Teacher
+- Teaching topics on Natural Language Processing including word embeddings, RNNs, Transformer models, and large language models (LLMs).
 
 **Lisbon Machine Learning School - [LXMLS 2023](http://lxmls.it.pt/2023/)**
 
