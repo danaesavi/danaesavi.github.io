@@ -22,6 +22,7 @@ Email: davi@di.ku.dk
 __News__
 - <span style="color:gray;">Oct 2024</span> Visiting CLASP, University of Gothenburg. I will give a talk on multimodal models for computational social science.
 - <span style="color:gray;">Sep 2024</span> Teaching class at [Delve](https://delveeducation.github.io/) on Multimodal Natural Language Processing.
+- <span style="color:gray;">Aug 2024</span> Enjoying the olympics in Paris! 🎾 🤸 🇫🇷
 - <span style="color:gray;">Jul 2024</span> In Sheffield attending my PhD graduation! 🎓
 - <span style="color:gray;">Jun 2024</span> Attending NAACL 2024 in Mexico city. Presenting a tutorial on [Language modelling and LLMs and their limitations](https://danaesavi.github.io/files/NLPTutorial-Spanish.pdf) at the Mexican NLP Summer School
 - <span style="color:gray;">May 2024</span> Teaching at the University of Copenhagen topics on Natural Language Processing [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).
