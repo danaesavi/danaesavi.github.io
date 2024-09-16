@@ -1,8 +1,8 @@
 ---
-title: "Beyond Words: Analyzing Social Media with Text and Images"
+title: "Multimodal Models for Computational Social Science"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-10-beyond-words
+permalink: /talks/2023-10-multimodalModelsCSS
 venue: "University of Copenhagen"
 date: 2023-10-04
 ---
