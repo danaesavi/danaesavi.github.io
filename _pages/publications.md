@@ -18,7 +18,7 @@ author_profile: true
    Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks. In EACL 2024 Findings. <br>
    <i><b>Danae Sánchez Villegas</b>, Daniel Preotiuc-Pietro, Nikolaos Aletras</i>. <br>
 
-   {% include buttonLink.html button_name="Arxiv" button_class="primary" button_link="https://arxiv.org/abs/2309.07794" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2024.findings-eacl.76/" %}   
    {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/SocialMedia-TextImage-Classification-AuxLosses" %}
     <br>
    
