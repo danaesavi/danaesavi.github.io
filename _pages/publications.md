@@ -10,6 +10,28 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
+     {% include button.html button_name="ECPR"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Political advertising on Facebook: Campaign strategies deployed by major political parties in the UK. ECPR 2024 Panel Digital campaigning: Empirical research and normative implications. <br>
+   <I>Junyan Zhu, Andrew Barclay, <b>Danae Sánchez Villegas</b></i>. <br>
+
+   {% include buttonLink.html button_name="Panel" button_class="primary" button_link="https://ecpr.eu/Events/Event/PaperDetails/77844" %}   
+   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/SocialMedia-TextImage-Classification-AuxLosses" %}
+    <br>
+   
+   <ul class="custom">
+   <li>In this paper, we aim to advance our understanding of the role online political advertising plays in campaign activities by addressing three questions: 1) What are the goals of political parties’ online advertising activity? 2) Which policy issues do party accounts address most often in their paid advertising? 3) Does negative campaigning persist over time?</li>
+   </ul>
+ 
+ </div>
+</div>
+
+<div class="columns">
+ 
+ <div class="column-left">
      {% include button.html button_name="EACL-Findings"%} 
    </div>
  
