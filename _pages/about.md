@@ -12,7 +12,7 @@ I'm a Postdoctoral Researcher at the [University of Copenhagen](https://coastalc
 
 My research interests are natural language processing, vision-and-language modeling, and computational social science.
 
-In my free time, I enjoy yoga and swimming.
+In my free time, I enjoy yoga and pilates.
 
 Email: davi@di.ku.dk
 
