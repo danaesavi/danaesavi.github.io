@@ -12,7 +12,11 @@ redirect_from:
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __Blog__
-- <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen
+- <span style="color:gray;">Jun 2024</span> Attending NAACL 2024 in Mexico city 🇲🇽. Presenting a tutorial on [Language modelling and LLMs and their limitations](https://danaesavi.github.io/files/NLPTutorial-Spanish.pdf) at the Mexican NLP Summer School
+- <span style="color:gray;">May 2024</span> Teaching at the University of Copenhagen topics on Natural Language Processing [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).
+-  <span style="color:gray;">Apr 2024</span> Happy to announce I've been invited to give a tutorial on transformer models at the [Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/) co-located with NAACL 2024. See you in Mexico City!
+- <span style="color:gray;">Mar 2024</span> Joined the [LatinX in NLP at NAACL](https://www.latinxinai.org/naacl-2024) committee as volunteer chair! We are seeking enthusiastic volunteers to assist in the smooth running of the workshop [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSck-DnuReAa8RxN2fAEH6W-93tbui1PjPnBnNU7ThXs4CdVlQ/viewform).
+- <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen 🇩🇰
 - <span style="color:gray;">Jan 2024</span> One paper accepted at [EACL 2024 Findings](https://2024.eacl.org/) 🌟 [Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks](https://arxiv.org/abs/2309.07794)
 - <span style="color:gray;">Dec 2023</span> In Singapore attending [EMNLP 2023](https://2023.emnlp.org/)
 - <span style="color:gray;">Nov 2023</span> In Bali for [AACL 2023](http://www.ijcnlp-aacl2023.org/) presenting [A Multimodal Analysis of Influencer Content on Twitter](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.15.pdf) **Best Area Chair Award -- Society & NLP**.
