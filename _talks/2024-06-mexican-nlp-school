@@ -1,0 +1,12 @@
+---
+title: "Exploring Transformers and Limitations in Language
+Modeling"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-10-multimodalModelsCSS
+venue: "Mexican NLP Summer School"
+date: 2023-10-04
+---
+
+This tutorial explores language modeling techniques in Natural Language Processing (NLP), covering key concepts from traditional approaches to Transformer architectures. Beginning with an introduction to NLP and language modeling, it delves into probabilistic language models and progresses to neural language models, emphasizing the significance of embeddings for semantic representation. Moving on to Transformer models, we will discuss key concepts such as multi-head attention mechanisms, masked language modeling, and encoder models. Additionally, the tutorial addresses the limitations of large language models, providing insights into challenges and considerations for leveraging these models effectively in practical applications.
+[Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/speakers/)
