@@ -18,7 +18,7 @@ I am passionate about mentoring students, particularly those from Latin America,
 
 Email: davi@di.ku.dk
 
-[[Blog](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)]
+[[Blog](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)] 
 
 
 __News__
