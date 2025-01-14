@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+**University of Copenhagen - [Deep Learning](https://kurser.ku.dk/course/ndak22002u/2023-2024).**
+Teacher
+- Teaching topics on Natural Language Processing including word embeddings, RNNs, Transformer models, and large language models (LLMs). January 2025.
+  
 **Delve - [Multimodal Natural Language Processing](https://delveeducation.github.io/)**
 
 **Mexican NLP Summer School 2024 - [Tutorial: Exploring Transformers and Limitations in Language Modeling](https://danaesavi.github.io/files/NLPTutorial-Spanish.pdf)**
@@ -15,7 +20,7 @@ redirect_from:
 
 **University of Copenhagen - [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).**
 Teacher
-- Teaching topics on Natural Language Processing including word embeddings, RNNs, Transformer models, and large language models (LLMs).
+- Teaching topics on Natural Language Processing including word embeddings, RNNs, Transformer models, and large language models (LLMs). Spring 2024.
 
 **Lisbon Machine Learning School - [LXMLS 2023](http://lxmls.it.pt/2023/)**
 
