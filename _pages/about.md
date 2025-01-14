@@ -22,14 +22,12 @@ Email: davi@di.ku.dk
 
 
 __News__
+- <span style="color:gray;">Jan 2025</span> Teaching NLP topics at the University of Copenhagen [Deep Learning](https://kurser.ku.dk/course/ndak22002u/2023-2024) 
 - <span style="color:gray;">Oct 2024</span> Visiting CLASP, University of Gothenburg 🇸🇪. I will give a talk on multimodal models for computational social science.
 - <span style="color:gray;">Sep 2024</span> Attending [DisAI](https://disai.eu/summer-school-2024/) Summer School in Bratislava 🇸🇰, and teaching a class at [Delve](https://delveeducation.github.io/) on Multimodal Natural Language Processing.
 - <span style="color:gray;">Aug 2024</span> Enjoying the olympics in Paris! 🎾 🤸 🇫🇷
 - <span style="color:gray;">Jul 2024</span> In Sheffield attending my PhD graduation! 🎓
-- <span style="color:gray;">Jun 2024</span> Attending NAACL 2024 in Mexico city 🇲🇽. Presenting a tutorial on [Language modelling and LLMs and their limitations](https://danaesavi.github.io/files/NLPTutorial-Spanish.pdf) at the Mexican NLP Summer School
-- <span style="color:gray;">May 2024</span> Teaching at the University of Copenhagen topics on Natural Language Processing [Advanced Deep Learning](https://kurser.ku.dk/course/ndak22002u/2022-2023).
--  <span style="color:gray;">Apr 2024</span> Happy to announce I've been invited to give a tutorial on transformer models at the [Mexican NLP Summer School](https://ampln.github.io/escuelaverano2024/) co-located with NAACL 2024. See you in Mexico City!
-- <span style="color:gray;">Mar 2024</span> Joined the [LatinX in NLP at NAACL](https://www.latinxinai.org/naacl-2024) committee as volunteer chair! We are seeking enthusiastic volunteers to assist in the smooth running of the workshop [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSck-DnuReAa8RxN2fAEH6W-93tbui1PjPnBnNU7ThXs4CdVlQ/viewform).
-- <span style="color:gray;">Feb 2024</span> Starting a new position as Postdoctoral researcher at the University of Copenhagen 🇩🇰
+
+
 
 
