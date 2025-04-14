@@ -6,6 +6,50 @@ author_profile: true
 ---
 
 {% include base_path %}
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="arXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users. <br>
+   <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard</i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>This paper explores the effectiveness of Multimodal Large Language models (MLLMs) as assistive technologies for visually impaired individuals. </li>
+   </ul>
+ 
+ </div>
+</div>
+
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="arXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models. <br>
+   <i><b>Danae Sánchez Villegas</b>, Ingo Ziegler, Desmond Elliott</i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2502.19409" %}   
+   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/ImageChain" %}
+   {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://huggingface.co/datasets/ingoziegler/StoryFrames" %}
+    <br>
+   
+   <ul class="custom">
+   <li>We introduce ImageChain, a framework that enhances multimodal LLMs with sequential image reasoning. </li>
+   </ul>
+ 
+ </div>
+</div>
+
 
 <div class="columns">
  
