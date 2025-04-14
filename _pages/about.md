@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 I'm a Research Scientist (Postdoctoral Researcher) at the [University of Copenhagen](https://coastalcph.github.io/), working on large multimodal models for video and language understanding. My current research focuses on model development, evaluation, and real-world applications of vision-and-language systems.
 
