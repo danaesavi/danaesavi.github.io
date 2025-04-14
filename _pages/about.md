@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist (Postdoctoral Researcher) at the [University of Copenhagen](https://coastalcph.github.io/), working on large multimodal models for video and language understanding. My current research focuses on model development, evaluation, and real-world applications of vision-and-language systems.
-
-I completed my Ph.D. in Natural Language Processing at the University of Sheffield, supervised by [Professor Nikos Aletras](http://nikosaletras.com/), with research spanning computational social science, political communication, and multimodal modeling. I also hold an MSc in Computer Science from Sheffield and a BSc in Computer Engineering from ITAM (Mexico City).
-
-Previously, I worked as a Research Associate in the [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) group and as an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/), where I focused on generative models and LLM prompting.
+I'm a Research Scientist (Postdoctoral Researcher) at the [University of Copenhagen](https://coastalcph.github.io/), working on large multimodal models for video and language understanding. My current research focuses on model development, evaluation, and real-world applications of vision-and-language systems. I completed my Ph.D. in Natural Language Processing at the University of Sheffield, supervised by [Professor Nikos Aletras](http://nikosaletras.com/), with research spanning computational social science, political communication, and multimodal modeling. I also hold an MSc in Computer Science from Sheffield and a BSc in Computer Engineering from ITAM (Mexico City). Previously, I worked as a Research Associate in the [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) group and as an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/), where I focused on generative models and LLM prompting.
 
 My research interests lie at the intersection of NLP, vision-and-language modeling, and socially impactful AI. 
 
