@@ -21,7 +21,7 @@ Outside of research, I enjoy yoga and pilates, and I’m passionate about mentor
 
 
 __News__
-- <span style="color:gray;">Mar 2025</span> Excited to share our new work! [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://arxiv.org/abs/2503.22610) 
+- <span style="color:gray;">Mar 2025</span> Excited to share our new work! [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://arxiv.org/abs/2503.22610). I also gave a talk at the [Research Connections session](https://www.linkedin.com/feed/update/urn:li:activity:7304808166670696448/) from Cohere Labs where I shared my work on multimodal learning and video content analysis.
 - <span style="color:gray;">Feb 2025</span> Our latest paper is now available on arXiv! [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2502.19409) 
 - <span style="color:gray;">Jan 2025</span> Teaching NLP topics at the University of Copenhagen [Deep Learning](https://kurser.ku.dk/course/ndak22002u/2023-2024) 
 - <span style="color:gray;">Oct 2024</span> Visiting CLASP, University of Gothenburg 🇸🇪. I will give a talk on multimodal models for computational social science.
