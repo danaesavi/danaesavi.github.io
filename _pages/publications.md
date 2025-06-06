@@ -21,7 +21,7 @@ author_profile: true
     <br>
    
    <ul class="custom">
-   <li>T In this study, (1) we introduce MuSeD, a Multimodal Spanish dataset for Sexism Detection consisting of ≈11 hours of videos extracted from TikTok and BitChute; (2) we propose an annotation framework for analyzing the contribution of textual and multimodal labels in the classification of sexist and non-sexist content; and (3) we evaluate a range of LLMs and multimodal LLMs on the task of sexism detection.  </li>
+   <li>In this study, (1) we introduce MuSeD, a Multimodal Spanish dataset for Sexism Detection consisting of ≈11 hours of videos extracted from TikTok and BitChute; (2) we propose an annotation framework for analyzing the contribution of textual and multimodal labels in the classification of sexist and non-sexist content; and (3) we evaluate a range of LLMs and multimodal LLMs on the task of sexism detection.  </li>
    </ul>
  
  </div>
