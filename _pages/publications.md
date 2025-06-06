@@ -17,7 +17,7 @@ author_profile: true
    MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos, 2025. <br>
    <i>Laura De Grazia, Pol Pastells, Mauro Vázquez Chas, Desmond Elliott,  <b>Danae Sánchez Villegas </b>, Mireia Farrús, Mariona Taulé.</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2504.11169" %}   
     <br>
    
    <ul class="custom">
