@@ -29,7 +29,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="arXiv"%} 
+     {% include button.html button_name="ACL"%} 
    </div>
  
  <div class="column-right">
