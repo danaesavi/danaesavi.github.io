@@ -34,8 +34,8 @@ author_profile: true
  
  <div class="column-right">
  
-   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users, 2025. <br>
-   <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard.</i>. <br>
+   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users, In ACL 2025. <br>
+   <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard.</i> <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
     <br>
