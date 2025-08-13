@@ -14,6 +14,27 @@ author_profile: true
  
  <div class="column-right">
  
+   Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding, 2025. <br>
+   <i>Zaranis, Emmanouil, et al.</i> <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2506.06275" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
+   </ul>
+ 
+ </div>
+</div>
+
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="COLM"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
    MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos, 2025. <br>
    <i>Laura De Grazia, Pol Pastells, Mauro Vázquez Chas, Desmond Elliott,  <b>Danae Sánchez Villegas </b>, Mireia Farrús, Mariona Taulé.</i> <br>
 
@@ -34,7 +55,7 @@ author_profile: true
  
  <div class="column-right">
  
-   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users, In ACL 2025. <br>
+   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users 🏆 SAC Award - Human-Centered NLP, In ACL 2025. <br>
    <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard.</i> <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
