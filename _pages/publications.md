@@ -6,26 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-<div class="columns">
- 
- <div class="column-left">
-     {% include button.html button_name="arXiv"%} 
-   </div>
- 
- <div class="column-right">
- 
-   Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding, 2025. <br>
-   <i>Zaranis, Emmanouil, et al.</i> <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2506.06275" %}   
-    <br>
-   
-   <ul class="custom">
-   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
-   </ul>
- 
- </div>
-</div>
 
 <div class="columns">
  
@@ -90,7 +71,26 @@ author_profile: true
  
  </div>
 </div>
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="arXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding, 2025. <br>
+   <i>Zaranis, Emmanouil, et al.</i> <br>
 
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2506.06275" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
+   </ul>
+ 
+ </div>
+</div>
 
 <div class="columns">
  
