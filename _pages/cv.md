@@ -12,6 +12,11 @@ redirect_from:
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __Blog__
+- <span style="color:gray;">Jun 2025</span>
+  - Co-organizing the [Copenhagen NLP Symposium](https://cphnlp.github.io/). Join us for a day of talks, a poster session and great discussions! Organized in collaboration by researchers at ITU, University of Copenhagen, and Aalborg University in Copenhagen.
+  - Attending [ICWSM](https://www.icwsm.org/2025/index.html) in Copenhagen!
+  - How well do AI models really understand movies? Our paper [Movie Facts and Fibs (MF2): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275) is now available in arXiv 🎬 🤖 grateful for an excellent collaboration!
+- <span style="color:gray;">May 2025</span> Giving a talk at [SomosNLP Hackathon](https://www.linkedin.com/posts/somosnlp_el-razonamiento-sobre-secuencias-de-im%C3%A1genes-activity-7325264841152053248-fwBv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtVjxEBdfaXUkqZ9BWDHjUKCmI0OFinZ7g) on sequential image-to-text reasoning with multimodal large language models.
 - <span style="color:gray;">Apr 2025</span> Happy to share our most recent work! [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://arxiv.org/abs/2504.11169) This project is the result of a great collaboration with [Laura de Grazia](https://clic.ub.edu/en/l_de-grazia) from Universitat de Barcelona (UB) where I had the pleasure of serving as senior co-supervisor.
 - <span style="color:gray;">Mar 2025</span>
   - Excited to share our new work led by Antonia Karamolegkou! [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://arxiv.org/abs/2503.22610).
