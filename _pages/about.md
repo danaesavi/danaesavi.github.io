@@ -21,17 +21,19 @@ Outside of research, I enjoy yoga and pilates, and I’m passionate about mentor
 
 
 __News__
+- <span style="color:gray;">Dec 2025</span>
+  - I will give a talk on Visual Language Models and its applications to social good at IIMAS-UNAM and ITAM Universities in Mexico City.
+  - I will be attending NeurIPS in Mexico city! I am co-organizing The SomosNLP Social and I will present our recent work, ImageChain, at the LatinX in AI Workshop.
+- <span style="color:gray;">Nov 2025</span>
+  - 1 paper accepted to appear in WACV! [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2502.19409)
+  - Our paper [Evaluation Reporting in AI Model Releases should be Standardized](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574) was accepted in EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI.
 - <span style="color:gray;">Oct 2025</span> Attending [COLM](https://colmweb.org/) See you in Montreal🇨🇦! 
 - <span style="color:gray;">Aug 2025</span> Co-organizing the [Big Scandinavian Data and LLMs Workshop](https://d3aconference.dk/big-scandinavian-data-and-llms/) at [D3A](https://d3aconference.dk/). Join us for a day of talks and networking activities!
 - <span style="color:gray;">Jul 2025</span>
   - Attending [ACL 2025](https://2025.aclweb.org/)! Co-organizing the Affinity Group Event—SomosNLP: The Iberoamerican NLP Community. See you in Vienna!
   - Our paper [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260.pdf) obtained the SAC Award 🏆 - Human-Centered NLP!!!
   - Our paper [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://arxiv.org/abs/2504.11169) is accepted to appear in COLM 2025!
-- <span style="color:gray;">Jun 2025</span>
-  - Co-organizing the [Copenhagen NLP Symposium](https://cphnlp.github.io/). Join us for a day of talks, a poster session and great discussions! Organized in collaboration by researchers at ITU, University of Copenhagen, and Aalborg University in Copenhagen.
-  - Attending [ICWSM](https://www.icwsm.org/2025/index.html) in Copenhagen!
-  - How well do AI models really understand movies? Our paper [Movie Facts and Fibs (MF2): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275) is now available in arXiv 🎬 🤖 grateful for an excellent collaboration!
-- <span style="color:gray;">May 2025</span> Giving a talk at [SomosNLP Hackathon](https://www.linkedin.com/posts/somosnlp_el-razonamiento-sobre-secuencias-de-im%C3%A1genes-activity-7325264841152053248-fwBv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtVjxEBdfaXUkqZ9BWDHjUKCmI0OFinZ7g) on sequential image-to-text reasoning with multimodal large language models.
+
 
 
 
