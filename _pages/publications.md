@@ -80,7 +80,7 @@ author_profile: true
    Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users 🏆 SAC Highlight - Human-Centered NLP, In ACL 2025. <br>
    <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard.</i> <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2025.acl-long.1260.pdf" %}   
     <br>
    
    <ul class="custom">
