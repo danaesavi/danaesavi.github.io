@@ -31,7 +31,7 @@ __News__
 - <span style="color:gray;">Aug 2025</span> Co-organizing the [Big Scandinavian Data and LLMs Workshop](https://d3aconference.dk/big-scandinavian-data-and-llms/) at [D3A](https://d3aconference.dk/). Join us for a day of talks and networking activities!
 - <span style="color:gray;">Jul 2025</span>
   - Attending [ACL 2025](https://2025.aclweb.org/)! Co-organizing the Affinity Group Event—SomosNLP: The Iberoamerican NLP Community. See you in Vienna!
-  - Our paper [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260.pdf) obtained the SAC Award 🏆 - Human-Centered NLP!!!
+  - Our paper [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260.pdf) obtained the SAC Highlight 🏆 - Human-Centered NLP!!!
   - Our paper [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://arxiv.org/abs/2504.11169) is accepted to appear in COLM 2025!
 
 
