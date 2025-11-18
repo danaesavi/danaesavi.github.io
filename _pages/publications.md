@@ -7,7 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="WACV"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models, 2025. <br>
+   <i><b>Danae Sánchez Villegas</b>, Ingo Ziegler, Desmond Elliott</i>. <br>
 
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2502.19409" %}   
+   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/ImageChain" %}
+   {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://huggingface.co/datasets/ingoziegler/StoryFrames" %}
+    <br>
+   
+   <ul class="custom">
+   <li>We introduce ImageChain, a framework that enhances multimodal LLMs with sequential image reasoning. </li>
+   </ul>
+ 
+ </div>
+</div>
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="EurIPS"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   EvalCards: A Framework for Standardized Evaluation Reporting, 2025. <br>
+   <i> R. Dhar, <b>D. Sánchez Villegas</b> A. Karamolegkou, A. Schiavone, Y. Yuan, X. Chen, J. Li, S. Frank, L. de Grazia, M. Swain, S. Brandl, D. Hershcovich, A. Søgaard, and D. Elliott</i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI. </li>
+   </ul>
+ 
+ </div>
+</div>
 <div class="columns">
  
  <div class="column-left">
@@ -36,7 +77,7 @@ author_profile: true
  
  <div class="column-right">
  
-   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users 🏆 SAC Award - Human-Centered NLP, In ACL 2025. <br>
+   Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users 🏆 SAC Highlight - Human-Centered NLP, In ACL 2025. <br>
    <i>Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, <b>Danae Sánchez Villegas</b>, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard.</i> <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2503.22610" %}   
@@ -49,28 +90,7 @@ author_profile: true
  </div>
 </div>
 
-<div class="columns">
- 
- <div class="column-left">
-     {% include button.html button_name="arXiv"%} 
-   </div>
- 
- <div class="column-right">
- 
-   ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models, 2025. <br>
-   <i><b>Danae Sánchez Villegas</b>, Ingo Ziegler, Desmond Elliott.</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2502.19409" %}   
-   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/ImageChain" %}
-   {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://huggingface.co/datasets/ingoziegler/StoryFrames" %}
-    <br>
-   
-   <ul class="custom">
-   <li>We introduce ImageChain, a framework that enhances multimodal LLMs with sequential image reasoning. </li>
-   </ul>
- 
- </div>
-</div>
 <div class="columns">
  
  <div class="column-left">
@@ -80,7 +100,7 @@ author_profile: true
  <div class="column-right">
  
    Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding, 2025. <br>
-   <i>Zaranis, Emmanouil, et al.</i> <br>
+   <i>E. Zaranis, A. Farinhas, S. Santos, B. Canaverde, M. M. Ramos, A. K. Surikuchi, A. Viveiros, B. Liao, E. Bueno-Benito, N. Sivakumaran, P. Vasylenko, S. Yu, S. Sannigrahi, W. Mohammed, B. Peters, <b>D. Sánchez Villegas</b>, E. Stengel-Eskin, G. Attanasio, J. Yoon, S. Frank, A. Suglia, C. Zerva, D. Elliott, M. Dimiccoli, M. Bansal, O. Lanz, R. Bernardi, R. Fernández, S. Pezzelle, V. Niculae, and A. F. T. Martins. </i> <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2506.06275" %}   
     <br>
