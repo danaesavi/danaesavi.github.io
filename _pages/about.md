@@ -29,7 +29,7 @@ __News__
   - I will give a talk on Visual Language Models and its applications to social good at IIMAS-UNAM and ITAM Universities in Mexico City.
   - I will be attending NeurIPS in Mexico city! I am co-organizing The SomosNLP Social and I will present our recent work, ImageChain, at the LatinX in AI Workshop.
 - <span style="color:gray;">Nov 2025</span>
-  - 1 paper accepted to appear in WACV! [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2502.19409)
+  - 1 paper accepted to appear in WACV! [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](https://openaccess.thecvf.com/content/WACV2026/papers/Villegas_ImageChain_Advancing_Sequential_Image-to-Text_Reasoning_in_Multimodal_Large_Language_Models_WACV_2026_paper.pdf)
   - Our paper [Evaluation Reporting in AI Model Releases should be Standardized](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574) was accepted in EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI.
 
 [More](https://danaesavi.github.io/cv/)
