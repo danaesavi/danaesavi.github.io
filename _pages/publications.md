@@ -38,7 +38,7 @@ author_profile: true
    ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models, 2025. <br>
    <i><b>Danae Sánchez Villegas</b>, Ingo Ziegler, Desmond Elliott</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2502.19409" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openaccess.thecvf.com/content/WACV2026/papers/Villegas_ImageChain_Advancing_Sequential_Image-to-Text_Reasoning_in_Multimodal_Large_Language_Models_WACV_2026_paper.pdf" %}   
    {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/ImageChain" %}
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://huggingface.co/datasets/ingoziegler/StoryFrames" %}
     <br>
