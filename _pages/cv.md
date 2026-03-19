@@ -12,7 +12,7 @@ redirect_from:
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __Blog__
-- <span style="color:gray;">Oct 2025</span> Attending [COLM](https://colmweb.org/) We will be hosting our SomosNLP social event. See you in Montreal🇨🇦! 
+- <span style="color:gray;">Oct 2025</span> Attending [COLM](https://colmweb.org/) We will be hosting our SomosNLP social event. See you in Montreal🇨🇦! </span>
 - <span style="color:gray;">Aug 2025</span> Co-organizing the [Big Scandinavian Data and LLMs Workshop](https://d3aconference.dk/big-scandinavian-data-and-llms/) at [D3A](https://d3aconference.dk/). Join us for a day of talks and networking activities!
 - <span style="color:gray;">Jul 2025</span>
   - Attending [ACL 2025](https://2025.aclweb.org/)! Co-organizing the Affinity Group Event—SomosNLP: The Iberoamerican NLP Community. See you in Vienna!
