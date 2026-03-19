@@ -7,6 +7,4 @@ venue: "IIMAS-UNAM and ITAM Universities in Mexico City."
 date: 2024-10-04
 ---
 
-Can artificial intelligence models understand a story told through images?
-
-In this talk, we will explore how systems that combine language and vision learn to reason visually by connecting information across sequences of images. I will focus on two recent projects, ImageChain and MuSeD, which demonstrate how these advances enable the analysis of complex visual content and support applications aimed at social good. Finally, I will discuss the open challenges in developing models capable of producing reliable explanations.
+Can artificial intelligence models understand a story told through images? In this talk, we will explore how systems that combine language and vision learn to reason visually by connecting information across sequences of images. I will focus on two recent projects, ImageChain and MuSeD, which demonstrate how these advances enable the analysis of complex visual content and support applications aimed at social good. Finally, I will discuss the open challenges in developing models capable of producing reliable explanations.
