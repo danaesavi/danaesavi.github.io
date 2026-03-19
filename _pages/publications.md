@@ -6,6 +6,26 @@ author_profile: true
 ---
 
 {% include base_path %}
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="arXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Beyond Binary Classification: Detecting Fine-Grained Sexism in Social Media Videos, 2026. <br>
+   <i>Laura De Grazia,, <b>Danae Sánchez Villegas</b>, Desmond Elliott, Mireia Farrús, Mariona Taulé</i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2602.15757" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>We present FineMuSe, a multimodal sexism detection dataset in Spanish that includes both binary and fine-grained annotations; we introduce a comprehensive hierarchical taxonomy that encompasses forms of sexism, non-sexism, and rhetorical devices of irony and humor; and we evaluate a wide range of LLMs for both binary and fine-grained sexism detection </li>
+   </ul>
+ 
+ </div>
+</div>
 
 <div class="columns">
  
@@ -49,6 +69,7 @@ author_profile: true
  
  </div>
 </div>
+
 <div class="columns">
  
  <div class="column-left">
