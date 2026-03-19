@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Researcher at the University of Copenhagen working with the [LAMP](https://lampgroup.github.io/) group and affiliated with [CoAStaL NLP](https://coastalcph.github.io/) and the [Pioneer Center for AI](https://www.aicentre.dk/). My current research focuses on model development, evaluation, and applications of vision-and-language models. I completed my Ph.D. in Natural Language Processing at the University of Sheffield (UK), supervised by [Professor Nikos Aletras](http://nikosaletras.com/), with research spanning computational social science, political communication, and multimodal modeling. I also hold an MSc in Computer Science from Sheffield and a BSc in Computer Engineering from ITAM (Mexico City). Previously, I worked as a Research Associate in the [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) group and as an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/), where I focused on generative language models.
+I am a Postdoctoral Researcher at the University of Copenhagen, working with the [LAMP](https://lampgroup.github.io/) group and affiliated with [CoAStaL NLP](https://coastalcph.github.io/) and the [Pioneer Center for AI](https://www.aicentre.dk/). My research focuses on the development, evaluation, and applications of vision-and-language models, with an interest in their safety, robustness, and responsible deployment.
 
-My research interests lie at the intersection of NLP, vision-and-language modeling, and socially impactful AI. 
+I completed my Ph.D. in Natural Language Processing at the University of Sheffield (UK), supervised by [Professor Nikos Aletras](http://nikosaletras.com/), where I worked on computational social science, political communication, and multimodal modeling. Previously, I was a Research Associate at [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) and an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/).
 
-Outside of research, I enjoy yoga and pilates, and I’m passionate about mentoring students—especially women from Latin America and other underrepresented communities in AI. I have co-organized LatinX in AI Workshop at NAACL'24 and I am part of the core team of [SomosNLP](https://somosnlp.org/) the Iberomerican NLP community. 
+I am broadly interested in NLP, multimodal learning, and safe AI systems. Outside of research, I enjoy pilates and learning new languages. I am an active member of the LatinX in AI community and an organizer of [SomosNLP](https://somosnlp.org/), an Ibero-American NLP community.
 
 📧 Email: davi@di.ku.dk
 
@@ -21,6 +21,9 @@ Outside of research, I enjoy yoga and pilates, and I’m passionate about mentor
 
 
 __News__
+- <span style="color:gray;">Mar 2026</span>
+    - I joined the [PI Program AI & Society](https://www.aicentre.dk/p1-programs/ai-society) and I will present our work [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://openreview.net/pdf?id=eSAv7GKVFt) at the inaugural event in Copenhagen!
+    - Our paper [Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275) has been accepted at [ICLR 2026 Workshop on Multimodal Intelligence](https://mmintelligence.github.io/).
 - <span style="color:gray;">Dec 2025</span>
   - I will give a talk on Visual Language Models and its applications to social good at IIMAS-UNAM and ITAM Universities in Mexico City.
   - I will be attending NeurIPS in Mexico city! I am co-organizing The SomosNLP Social and I will present our recent work, ImageChain, at the LatinX in AI Workshop.
@@ -28,11 +31,8 @@ __News__
   - 1 paper accepted to appear in WACV! [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2502.19409)
   - Our paper [Evaluation Reporting in AI Model Releases should be Standardized](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574) was accepted in EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI.
 - <span style="color:gray;">Oct 2025</span> Attending [COLM](https://colmweb.org/) See you in Montreal🇨🇦! 
-- <span style="color:gray;">Aug 2025</span> Co-organizing the [Big Scandinavian Data and LLMs Workshop](https://d3aconference.dk/big-scandinavian-data-and-llms/) at [D3A](https://d3aconference.dk/). Join us for a day of talks and networking activities!
-- <span style="color:gray;">Jul 2025</span>
-  - Attending [ACL 2025](https://2025.aclweb.org/)! Co-organizing the Affinity Group Event—SomosNLP: The Iberoamerican NLP Community. See you in Vienna!
-  - Our paper [Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users](https://aclanthology.org/2025.acl-long.1260.pdf) obtained the SAC Highlight 🏆 - Human-Centered NLP!!!
-  - Our paper [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://arxiv.org/abs/2504.11169) is accepted to appear in COLM 2025!
+
+[More](https://danaesavi.github.io/cv/)
 
 
 
