@@ -58,7 +58,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
  
  <div class="column-right">
  
-   ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models, 2025. <br>
+   ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models. Winter Conference on Applications of Computer Vision (WACV), 2026. <br>
    <i><b>Danae Sánchez Villegas</b>, Ingo Ziegler, Desmond Elliott</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openaccess.thecvf.com/content/WACV2026/papers/Villegas_ImageChain_Advancing_Sequential_Image-to-Text_Reasoning_in_Multimodal_Large_Language_Models_WACV_2026_paper.pdf" %}   
