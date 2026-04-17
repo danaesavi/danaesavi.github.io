@@ -6,6 +6,29 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="arXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models, 2026. <br>
+   <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott</i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2604.14888" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>We analyze the behavior of 18 vision-language models (VLMs), including both instruction-tuned and reasoning-trained models, by tracking their reasoning step-by-step through Chain-of-Thought (CoT).
+Key findings (1) Answer inertia: Models often stick to early predictions rather than revising them. (2) Modality bias: Misleading text can strongly influence predictions, even when visual evidence is sufficient. (3) Reasoning ≠ transparency: Reasoning-trained models may appear more visually grounded, but can still rely heavily on text. </li>
+   </ul>
+ 
+ </div>
+</div>
+
 <div class="columns">
  
  <div class="column-left">
@@ -15,7 +38,7 @@ author_profile: true
  <div class="column-right">
  
    Beyond Binary Classification: Detecting Fine-Grained Sexism in Social Media Videos, 2026. <br>
-   <i>Laura De Grazia,, <b>Danae Sánchez Villegas</b>, Desmond Elliott, Mireia Farrús, Mariona Taulé</i>. <br>
+   <i>Laura De Grazia, <b>Danae Sánchez Villegas</b>, Desmond Elliott, Mireia Farrús, Mariona Taulé</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2602.15757" %}   
     <br>
