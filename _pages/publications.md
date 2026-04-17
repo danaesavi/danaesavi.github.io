@@ -72,6 +72,28 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
  
  </div>
 </div>
+
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="ICLR-W"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
+   Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding. ICLR 2026 Workshop on Multimodal Intelligence: Next Token Prediction & Beyond, 2026. <br>
+   <i>E. Zaranis, A. Farinhas, S. Santos, B. Canaverde, M. M. Ramos, A. K. Surikuchi, A. Viveiros, B. Liao, E. Bueno-Benito, N. Sivakumaran, P. Vasylenko, S. Yu, S. Sannigrahi, W. Mohammed, B. Peters, <b>D. Sánchez Villegas</b>, E. Stengel-Eskin, G. Attanasio, J. Yoon, S. Frank, A. Suglia, C. Zerva, D. Elliott, M. Dimiccoli, M. Bansal, O. Lanz, R. Bernardi, R. Fernández, S. Pezzelle, V. Niculae, and A. F. T. Martins. </i> <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openreview.net/pdf?id=i58ycqyHiV" %}   
+    <br>
+   
+   <ul class="custom">
+   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
+   </ul>
+ 
+ </div>
+</div>
+
 <div class="columns">
  
  <div class="column-left">
@@ -134,27 +156,6 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
  </div>
 </div>
 
-
-<div class="columns">
- 
- <div class="column-left">
-     {% include button.html button_name="arXiv"%} 
-   </div>
- 
- <div class="column-right">
- 
-   Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding, 2025. <br>
-   <i>E. Zaranis, A. Farinhas, S. Santos, B. Canaverde, M. M. Ramos, A. K. Surikuchi, A. Viveiros, B. Liao, E. Bueno-Benito, N. Sivakumaran, P. Vasylenko, S. Yu, S. Sannigrahi, W. Mohammed, B. Peters, <b>D. Sánchez Villegas</b>, E. Stengel-Eskin, G. Attanasio, J. Yoon, S. Frank, A. Suglia, C. Zerva, D. Elliott, M. Dimiccoli, M. Bansal, O. Lanz, R. Bernardi, R. Fernández, S. Pezzelle, V. Niculae, and A. F. T. Martins. </i> <br>
-
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2506.06275" %}   
-    <br>
-   
-   <ul class="custom">
-   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
-   </ul>
- 
- </div>
-</div>
 
 <div class="columns">
  
