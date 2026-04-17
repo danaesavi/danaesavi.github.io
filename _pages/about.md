@@ -21,6 +21,9 @@ I am broadly interested in NLP, multimodal learning, and safe AI systems. Outsid
 
 
 __News__
+- <span style="color:gray;">Apr 2026</span>
+    - Our new pre-print [Reasoning Dynamics and the Limits of Monitoring Modality
+Reliance in Vision-Language Models](https://arxiv.org/pdf/2604.14888) is out! We analyze the behavior of 18 vision-language models by tracking their reasoning step-by-step through Chain-of-Thought (CoT). We find that CoT provides only a partial view of how models integrate and rely on different modalities.
 - <span style="color:gray;">Mar 2026</span>
     - I joined the [PI Program AI & Society](https://www.aicentre.dk/p1-programs/ai-society) and I will present our work [MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos](https://openreview.net/pdf?id=eSAv7GKVFt) at the inaugural event in Copenhagen!
     - Our paper [Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275) has been accepted at [ICLR 2026 Workshop on Multimodal Intelligence](https://mmintelligence.github.io/).
