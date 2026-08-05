@@ -16,7 +16,7 @@ author_profile: true
  <div class="column-right">
  
    Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models, 2026. <br>
-   <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott</i>. <br>
+   <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott. COLM 2026.</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2604.14888" %}   
     <br>
@@ -32,15 +32,15 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="arXiv"%} 
+     {% include button.html button_name="Journal"%} 
    </div>
  
  <div class="column-right">
  
    Beyond Binary Classification: Detecting Fine-Grained Sexism in Social Media Videos, 2026. <br>
-   <i>Laura De Grazia, <b>Danae Sánchez Villegas</b>, Desmond Elliott, Mireia Farrús, Mariona Taulé</i>. <br>
+   <i>Laura De Grazia, <b>Danae Sánchez Villegas</b>, Desmond Elliott, Mireia Farrús, Mariona Taulé. Computational Linguistics 2026</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2602.15757" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.646/137894/Beyond-Binary-Classification-Detecting-Fine" %}   
     <br>
    
    <ul class="custom">
