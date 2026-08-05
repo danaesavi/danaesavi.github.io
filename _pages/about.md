@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the University of Copenhagen, working with the [LAMP](https://lampgroup.github.io/) group and affiliated with [CoAStaL NLP](https://coastalcph.github.io/) and the [Pioneer Center for AI](https://www.aicentre.dk/). My research focuses on the development, evaluation, and applications of vision-and-language models, with an interest in their safety, robustness, and responsible deployment.
+I am a Postdoctoral Researcher at the [Center for AI in Society (CAISA)](https://caisa.dk/en), University of Copenhagen. I am affiliated with the [LAMP](https://lampgroup.github.io/) group, [CoAStaL NLP](https://coastalcph.github.io/), and the [Pioneer Centre for AI](https://www.aicentre.dk/). My research focuses on developing and evaluating vision-and-language models, with a particular interest in multimodal understanding and reasoning, AI safety, robustness, and responsible AI.
 
-I completed my Ph.D. in Natural Language Processing at the University of Sheffield (UK), supervised by [Professor Nikos Aletras](http://nikosaletras.com/), where I worked on computational social science, political communication, and multimodal modeling. Previously, I was a Research Associate at [SheffieldNLP](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) and an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/).
+I completed my Ph.D. in Natural Language Processing at the University of Sheffield (UK), supervised by [Professor Nikos Aletras](http://nikosaletras.com/), where I worked on computational social science, political communication, and multimodal learning. During my Ph.D., I was also an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/).
 
-I am broadly interested in NLP, multimodal learning, and safe AI systems. Outside of research, I enjoy pilates and learning new languages. I am an active member of the LatinX in AI community and an organizer of [SomosNLP](https://somosnlp.org/), an Ibero-American NLP community.
+More broadly, I am interested in multimodal AI, natural language processing, and trustworthy multimodal AI systems, particularly their understanding, evaluation, and real-world applications.
+
+Outside of research, I enjoy connecting with the research community through organizing and participating in events. I am an active member of the LatinX in AI community and an organizer of [SomosNLP](https://somosnlp.org/), where I support researchers, encourage collaboration, and help build a more connected Ibero-American NLP community.
 
 📧 Email: davi@di.ku.dk
 
