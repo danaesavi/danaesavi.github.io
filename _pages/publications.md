@@ -20,11 +20,6 @@ author_profile: true
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2604.14888" %}   
     <br>
-   
-   <ul class="custom">
-   <li>We analyze the behavior of 18 vision-language models (VLMs), including both instruction-tuned and reasoning-trained models, by tracking their reasoning step-by-step through Chain-of-Thought (CoT).
-Key findings (1) Answer inertia: Models often stick to early predictions rather than revising them. (2) Modality bias: Misleading text can strongly influence predictions, even when visual evidence is sufficient. (3) Reasoning ≠ transparency: Reasoning-trained models may appear more visually grounded, but can still rely heavily on text. </li>
-   </ul>
  
  </div>
 </div>
@@ -43,9 +38,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.646/137894/Beyond-Binary-Classification-Detecting-Fine" %}   
     <br>
    
-   <ul class="custom">
-   <li>We present FineMuSe, a multimodal sexism detection dataset in Spanish that includes both binary and fine-grained annotations; we introduce a comprehensive hierarchical taxonomy that encompasses forms of sexism, non-sexism, and rhetorical devices of irony and humor; and we evaluate a wide range of LLMs for both binary and fine-grained sexism detection </li>
-   </ul>
+  
  
  </div>
 </div>
@@ -66,9 +59,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://huggingface.co/datasets/ingoziegler/StoryFrames" %}
     <br>
    
-   <ul class="custom">
-   <li>We introduce ImageChain, a framework that enhances multimodal LLMs with sequential image reasoning. </li>
-   </ul>
+  
  
  </div>
 </div>
@@ -87,9 +78,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openreview.net/pdf?id=i58ycqyHiV" %}   
     <br>
    
-   <ul class="custom">
-   <li>Movie Facts and Fibs is a benchmark designed to evaluate a model's ability to understand and reason about long movies. It consists of over 50 open-licensed movies, each paired with manually created fact/fib claim pairs, focusing on narrative elements like character motivations and event order.</li>
-   </ul>
+  
  
  </div>
 </div>
@@ -108,9 +97,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5444574" %}   
     <br>
    
-   <ul class="custom">
-   <li>EurIPS 2025 Workshop on The Science of Benchmarking and Evaluating AI. </li>
-   </ul>
+  
  
  </div>
 </div>
@@ -129,9 +116,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openreview.net/pdf?id=eSAv7GKVFt" %}   
     <br>
    
-   <ul class="custom">
-   <li>In this study, (1) we introduce MuSeD, a Multimodal Spanish dataset for Sexism Detection consisting of ≈11 hours of videos extracted from TikTok and BitChute; (2) we propose an annotation framework for analyzing the contribution of textual and multimodal labels in the classification of sexist and non-sexist content; and (3) we evaluate a range of LLMs and multimodal LLMs on the task of sexism detection.  </li>
-   </ul>
+   
  
  </div>
 </div>
@@ -149,9 +134,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2025.acl-long.1260.pdf" %}   
     <br>
    
-   <ul class="custom">
-   <li>This paper explores the effectiveness of Multimodal Large Language models (MLLMs) as assistive technologies for visually impaired individuals. </li>
-   </ul>
+  
  
  </div>
 </div>
@@ -172,9 +155,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/SocialMedia-TextImage-Classification-AuxLosses" %}
     <br>
    
-   <ul class="custom">
-   <li>In this paper, we aim to advance our understanding of the role online political advertising plays in campaign activities by addressing three questions: 1) What are the goals of political parties’ online advertising activity? 2) Which policy issues do party accounts address most often in their paid advertising? 3) Does negative campaigning persist over time?</li>
-   </ul>
+   
  
  </div>
 </div>
@@ -194,10 +175,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/danaesavi/SocialMedia-TextImage-Classification-AuxLosses" %}
     <br>
    
-   <ul class="custom">
-   <li>We use two auxiliary losses, Image-Text Contrastive (ITC) and Image-Text Matching (ITM), jointly with the main task when fine-tuning any pre-trained multimodal model for social media posts classification. </li>
-    <li>We combine these objectives with five multimodal models, demonstrating consistent improvements across four popular social media datasets.</li>
-   </ul>
+   
  
  </div>
 </div>
@@ -218,10 +196,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="Data" button_class="primary" button_link="https://github.com/danaesavi/micd-influencer-content-twitter" %}
    {% include buttonLink.html button_name="Slides" button_class="primary" button_link="https://danaesavi.github.io/files/AACL2023-Influencers.pdf" %} <br>
    
-   <ul class="custom">
-   <li>Our research explores the challenges in automatically detecting regulatory compliance breaches in influencer advertising. </li>
-   <li>We introduce a new dataset, and experiments to improve the detection of commercial influencer content.</li>
-   </ul>
+   
  
  </div>
 </div>
@@ -237,11 +212,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
 
   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://aclanthology.org/2023.americasnlp-1.21/" %}   {% include buttonLink.html button_name="Code" button_class="primary" button_link="https://github.com/edwardgowsmith/americasnlp-2023-sheffield" %} <br>
    
-  <ul class="custom">
-    <li> We describe our submission to the AmericasNLP 2023 Shared Task on Machine Translation into Indigenous Languages.</li>
-    <li>Our approach consists of extending, training, and ensembling different variations of NLLB-200.</li>
-    <li> We achieve the highest average chrF of all the submissions.</li>
-   </ul>
+  
  
  </div>
   
@@ -261,9 +232,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
   {% include buttonLink.html button_name="Tech At Bloomberg" button_class="primary" button_link="https://www.bloomberg.com/company/stories/bloomberg-publishes-3-ai-papers-naacl-2022/" %}
   <br>
    
-  <ul class="custom">
-    <li> We propose a method that combines parallel encoders to capture parody, humor, and sarcasm-specific representations from input sequences, which outperforms previous state-of-the-art models for parody detection.</li>
-   </ul>
+ 
  
  </div>
 </div>
@@ -283,9 +252,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
   {% include buttonLink.html button_name="Poster" button_class="primary" button_link="https://danaesavi.github.io/files/VPOI_Poster.pdf" %}
   <br>
    
-  <ul class="custom">
-    <li> We propose a model for POI type prediction combining text and image using a modality gate to control the amount of information needed from the text and image, and a cross-attention mechanism to learn cross-modal interactions.</li>
-   </ul>
+ 
  
  </div>
 </div>
@@ -304,10 +271,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
   
   <br>
    
-  <ul class="custom">
-    <li>We present work on inferring ideology and sponsor type from political ads in the US. </li>
-    <li>We make available two new datasets for political ad analysis, evaluate multimodal models and provide an in-depth analysis of the limitations of our models.</li>
-   </ul>
+
  
  </div>
 </div>
@@ -327,9 +291,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
   
   <br>
    
-  <ul class="custom">
-    <li>We introduce a dataset of tweets mapped into Foursquare POIs (locations), evaluate several text classifier models & provide temporal analysis.</li>
-   </ul>
+  
  
  </div>
 </div>
@@ -351,10 +313,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
   
   <br>
    
-  <ul class="custom">
-    <li>We present a first study of parody using methods from computational linguistics and machine learning.</li>
-   <li>We introduce a freely available large-scale data set containing a total of 131,666 English tweets from 184 real and corresponding parody accounts, and evaluate a range of neural models achieving high predictive accuracy.</li>
-   </ul>
+
  
  </div>
 </div>
@@ -373,9 +332,7 @@ Key findings (1) Answer inertia: Models often stick to early predictions rather 
    {% include buttonLink.html button_name="eThesis" button_class="primary" button_link="https://etheses.whiterose.ac.uk/33952/" %}   
     <br>
    
-   <ul class="custom">
-   <li>My Ph.D. thesis is particularly focused on introducing challenging tasks as well as novel methods to gain a better understanding of multimodal content and its underlying dynamics in the context of social media. .</li>
-   </ul>
+   
  
  </div>
 </div>
