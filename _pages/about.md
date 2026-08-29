@@ -10,13 +10,19 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the [Center for AI in Society (CAISA)](https://caisa.dk/en), University of Copenhagen. I am affiliated with the [LAMP](https://lampgroup.github.io/) group, [CoAStaL NLP](https://coastalcph.github.io/), and the [Pioneer Centre for AI](https://www.aicentre.dk/). My research focuses on developing and evaluating vision-and-language models, with a particular interest in multimodal understanding and reasoning, AI safety, robustness, and responsible AI.
 
+**Background**
+
 I completed my Ph.D. in Natural Language Processing at the University of Sheffield (UK), supervised by [Professor Nikos Aletras](http://nikosaletras.com/), where I worked on computational social science, political communication, and multimodal learning. During my Ph.D., I was also an Applied Scientist Intern at [Amazon Alexa Shopping](https://www.amazon.science/).
 
-More broadly, I am interested in multimodal AI, natural language processing, and trustworthy multimodal AI systems, particularly their understanding, evaluation, and real-world applications.
+**Research interests**
 
-Outside of research, I enjoy connecting with the research community through organizing and participating in events. I am an active member of the LatinX in AI community and an organizer of [SomosNLP](https://somosnlp.org/), where I support researchers, encourage collaboration, and help build a more connected Ibero-American NLP community.
+Multimodal AI, natural language processing, and trustworthy multimodal AI systems, with a particular interest in their understanding, evaluation, and applications.
 
-📧 Email: davi@di.ku.dk
+**Community**
+
+I enjoy connecting with the research community through organizing and participating in events. I am an active member of LatinX in AI and an organizer of [SomosNLP](https://somosnlp.org/), where I support researchers, encourage collaboration, and help build a more connected Ibero-American NLP community.
+
+**Email:** [davi@samf.ku.dk](mailto:davi@di.ku.dk)
 
 
 [[Blog](https://danaesavi.github.io/cv/)] [[Publications](https://danaesavi.github.io/publications/)] [[Google Scholar](https://scholar.google.co.uk/citations?user=jafwsyYAAAAJ&hl=en)] 
