@@ -9,7 +9,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="COLM"%} 
+     {% include button.html button_name="ArXiv"%} 
    </div>
  
  <div class="column-right">
@@ -17,7 +17,7 @@ author_profile: true
    What’s the Catch? Evaluating Temporal Consistency in Vision-Language Models, 2026. <br>
    <i> Marek Hradil, <b>Danae Sánchez Villegas</b></i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link=https://arxiv.org/pdf/2608.23474v2" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2608.23474v2" %}   
     <br>
  
  </div>
@@ -27,7 +27,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="ArXiv"%} 
+     {% include button.html button_name="COLM"%} 
    </div>
  
  <div class="column-right">
