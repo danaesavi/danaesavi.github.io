@@ -31,6 +31,7 @@ I enjoy connecting with the research community through organizing and participat
 __News__
 - <span style="color:gray;">Aug 2026</span>
     - Started a new position as a Postdoctoral Researcher at CAISA, University of Copenhagen. Excited to continue my research on vision-language models with a focus on trustworthiness and safety.
+    - Our new pre-print is available: [What’s the Catch? Evaluating Temporal Consistency in Vision-Language Models](https://arxiv.org/pdf/2608.23474v2)
 - <span style="color:gray;">Jul 2026</span>
     - Our paper [Reasoning Dynamics and the Limits of Monitoring Modality
 Reliance in Vision-Language Models](https://arxiv.org/pdf/2604.14888) has been accepted to appear at **COLM 2026** 🥳 See you in San Francisco!
