@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-
 <div class="columns">
  
  <div class="column-left">
@@ -15,8 +14,26 @@ author_profile: true
  
  <div class="column-right">
  
+   What’s the Catch? Evaluating Temporal Consistency in Vision-Language Models, 2026. <br>
+   <i> Marek Hradil, <b>Danae Sánchez Villegas</b></i>. <br>
+
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link=https://arxiv.org/pdf/2608.23474v2" %}   
+    <br>
+ 
+ </div>
+</div>
+
+
+<div class="columns">
+ 
+ <div class="column-left">
+     {% include button.html button_name="ArXiv"%} 
+   </div>
+ 
+ <div class="column-right">
+ 
    Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models, 2026. <br>
-   <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott. COLM 2026.</i>. <br>
+   <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott. COLM 2026</i>. <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2604.14888" %}   
     <br>
@@ -27,7 +44,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="Journal"%} 
+     {% include button.html button_name="CL"%} 
    </div>
  
  <div class="column-right">
@@ -67,13 +84,13 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="ICLR-W"%} 
+     {% include button.html button_name="EMNLP"%} 
    </div>
  
  <div class="column-right">
  
    Movie Facts and Fibs (MF): A Benchmark for Long Movie Understanding. ICLR 2026 Workshop on Multimodal Intelligence: Next Token Prediction & Beyond, 2026. <br>
-   <i>E. Zaranis, A. Farinhas, S. Santos, B. Canaverde, M. M. Ramos, A. K. Surikuchi, A. Viveiros, B. Liao, E. Bueno-Benito, N. Sivakumaran, P. Vasylenko, S. Yu, S. Sannigrahi, W. Mohammed, B. Peters, <b>D. Sánchez Villegas</b>, E. Stengel-Eskin, G. Attanasio, J. Yoon, S. Frank, A. Suglia, C. Zerva, D. Elliott, M. Dimiccoli, M. Bansal, O. Lanz, R. Bernardi, R. Fernández, S. Pezzelle, V. Niculae, and A. F. T. Martins. </i> <br>
+   <i>E. Zaranis, A. Farinhas, S. Santos, B. Canaverde, M. M. Ramos, A. K. Surikuchi, A. Viveiros, B. Liao, E. Bueno-Benito, N. Sivakumaran, P. Vasylenko, S. Yu, S. Sannigrahi, W. Mohammed, B. Peters, <b>D. Sánchez Villegas</b>, E. Stengel-Eskin, G. Attanasio, J. Yoon, S. Frank, A. Suglia, C. Zerva, D. Elliott, M. Dimiccoli, M. Bansal, O. Lanz, R. Bernardi, R. Fernández, S. Pezzelle, V. Niculae, and A. F. T. Martins. EMNLP 2026 </i> <br>
 
    {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openreview.net/pdf?id=i58ycqyHiV" %}   
     <br>
