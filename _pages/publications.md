@@ -9,7 +9,7 @@ author_profile: true
 <div class="columns">
  
  <div class="column-left">
-     {% include button.html button_name="ArXiv"%} 
+     {% include button.html button_name="GroundLM"%} 
    </div>
  
  <div class="column-right">
@@ -17,7 +17,7 @@ author_profile: true
    What’s the Catch? Evaluating Temporal Consistency in Vision-Language Models, 2026. <br>
    <i> Marek Hradil, <b>Danae Sánchez Villegas</b></i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2608.23474v2" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/abs/2608.23474" %}   
     <br>
  
  </div>
@@ -35,7 +35,7 @@ author_profile: true
    Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models, 2026. <br>
    <i> <b>Danae Sánchez Villegas</b>, Samuel Lewis-Lim, Nikolaos Aletras, Desmond Elliott. COLM 2026</i>. <br>
 
-   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://arxiv.org/pdf/2604.14888" %}   
+   {% include buttonLink.html button_name="Paper" button_class="primary" button_link="https://openreview.net/pdf?id=YV2d7n8uMm" %}   
     <br>
  
  </div>
