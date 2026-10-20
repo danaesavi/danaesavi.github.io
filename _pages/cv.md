@@ -12,6 +12,10 @@ redirect_from:
 You can find my CV [here](https://danaesavi.github.io/files/CV_Danae.pdf)
 
 __Blog__
+- <span style="color:gray;">Jul 2026</span>
+    - Our paper [Reasoning Dynamics and the Limits of Monitoring Modality
+Reliance in Vision-Language Models](https://openreview.net/pdf?id=YV2d7n8uMm) has been accepted to appear at **COLM 2026** 🥳 See you in San Francisco!
+    - 🎉 Our work, [Beyond Binary Classification: Detecting Fine-Grained Sexism in Social Media Videos](https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.646/137894/Beyond-Binary-Classification-Detecting-Fine), has been published in **Computational Linguistics**.
 - <span style="color:gray;">Apr 2026</span>
     - Our new pre-print [Reasoning Dynamics and the Limits of Monitoring Modality
 Reliance in Vision-Language Models](https://arxiv.org/pdf/2604.14888) is out! We analyze the behavior of 18 vision-language models by tracking their reasoning step-by-step through Chain-of-Thought (CoT). We find that CoT provides only a partial view of how models integrate and rely on different modalities.
